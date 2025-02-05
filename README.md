@@ -26,4 +26,3 @@ Crowd Source is a tool for communities to communicate with first responders in t
 - Jason Ang
 - Tiancheng Zhou
 - David Willis
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
