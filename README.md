@@ -4,7 +4,9 @@
 From the Root Directory, run these commands:
 
 cd .\crowd-source-ai
+
 npm install
+
 npm run dev
 
 Lastly, open the link displayed in the terminal. (Most likely: http://localhost:3000)
