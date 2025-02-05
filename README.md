@@ -1,4 +1,18 @@
-# CrowdSource
+ ██████╗██████╗  ██████╗ ██╗    ██╗██████╗     ███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗    
+██╔════╝██╔══██╗██╔═══██╗██║    ██║██╔══██╗    ██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝    
+██║     ██████╔╝██║   ██║██║ █╗ ██║██║  ██║    ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗      
+██║     ██╔══██╗██║   ██║██║███╗██║██║  ██║    ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝      
+╚██████╗██║  ██║╚██████╔╝╚███╔███╔╝██████╔╝    ███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗    
+ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═════╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝    
+
+## How to Run The App
+From the Root Directory, run these commands:
+
+cd .\crowd-source-ai
+npm install
+npm run dev
+
+Lastly, open the link displayed in the terminal. (Most likely: http://localhost:3000)
 
 ## Project name
 Crowd Source AI
@@ -12,3 +26,4 @@ Crowd Source is a tool for communities to communicate with first responders in t
 - Jason Ang
 - Tiancheng Zhou
 - David Willis
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
