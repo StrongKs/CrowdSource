@@ -1,23 +1,33 @@
-// import Image from "next/image";
-"use client";
-
+"use client"
+import React from 'react'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
+import { Label } from '@/components/ui/label'
+import { Textarea } from '@/components/ui/textarea'
 import { addDefaultPost } from "@/actions/db.action";
 
-export default function Home() {
+function HomePage() {
+    return (
+      <div className="h-screen flex justify-center items-start">
+        <div className="max-w-sm mt-20">
+          <div className="grid w-full max-w-sm items-center gap-1.5">
+            <Input type="Title" id="Title" placeholder="Type your Title Here" />
+          </div>
+          <form action=""></form>
+          <div className="grid w-full gap-2">
+            <Textarea placeholder="Type your Message Here" />
+            <Button className="bg-white text-black border border-gray-300 hover:bg-gray-100"
+              onClick={() => { 
+                console.log("Button clicked"); 
+                addDefaultPost(); 
+              }}
+            >
+            Send message
+            </Button>
+          </div>
+        </div>
+      </div>
+    )
+  }
 
-  return (
-    <div>
-      <h1>Crowd Source AI</h1>
-      <p>Help us make AI better by contributing to our data sets</p>
-      <button
-        style={{ padding: "10px 20px", fontSize: "16px", cursor: "pointer", color: "red", outline: "2px solid blue" }}
-        onClick={() => { 
-          console.log("Button clicked"); 
-          addDefaultPost(); 
-        }}
-      >
-        Add Default Post
-      </button>
-    </div>
-  );
-}
+export default HomePage
