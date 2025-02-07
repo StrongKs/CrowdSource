@@ -3,13 +3,14 @@
 // import { useUser } from "@clerk/nextjs";
 import { useState } from "react";
 import { Card, CardContent } from "./ui/card";
-import { Avatar, AvatarImage } from "./ui/avatar";
+// import { Avatar, AvatarImage } from "./ui/avatar";
 import { Textarea } from "./ui/textarea";
 import { ImageIcon, Loader2Icon, SendIcon } from "lucide-react";
 import { Button } from "./ui/button";
 // import { createPost } from "@/actions/post.action";
-import toast from "react-hot-toast";
+// import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
+import { addDefaultPost } from "@/actions/post.action";
 
 function CreatePost() {
 //   const { user } = useUser();
@@ -23,18 +24,20 @@ function CreatePost() {
 
     setIsPosting(true);
     try {
-      const result = await createPost(content, imageUrl);
-      if (result?.success) {
-        // reset the form
-        setContent("");
-        setImageUrl("");
-        setShowImageUpload(false);
+      addDefaultPost();
+      console.log("Default Post created successfully");
+      // const result = await createPost(content, imageUrl);
+      // if (result?.success) {
+      //   // reset the form
+      //   setContent("");
+      //   setImageUrl("");
+      //   setShowImageUpload(false);
 
-        toast.success("Post created successfully");
-      }
+      //   toast.success("Post created successfully");
+      // }
     } catch (error) {
       console.error("Failed to create post:", error);
-      toast.error("Failed to create post");
+      // toast.error("Failed to create post");
     } finally {
       setIsPosting(false);
     }
