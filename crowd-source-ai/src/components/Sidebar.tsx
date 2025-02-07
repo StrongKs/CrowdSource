@@ -17,9 +17,9 @@ export default function Sidebar() {
   const fetchSummaries = async () => {
     setLoading(true);
     try {
-      const response = await fetch("/api/summaries");
-      const data = await response.json();
-      setSummaries(data);
+      // const response = await fetch("/api/summaries");
+      // const data = await response.json();
+      // setSummaries(data);
     } catch (error) {
       console.error("Error fetching summaries:", error);
     }
