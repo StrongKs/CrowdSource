@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Textarea } from '@/components/ui/textarea'
+import { addDefaultPost } from "@/actions/db.action";
 
 function HomePage() {
     return (
@@ -15,7 +16,12 @@ function HomePage() {
           <form action=""></form>
           <div className="grid w-full gap-2">
             <Textarea placeholder="Type your Message Here" />
-            <Button className="bg-white text-black border border-gray-300 hover:bg-gray-100">
+            <Button className="bg-white text-black border border-gray-300 hover:bg-gray-100"
+              onClick={() => { 
+                console.log("Button clicked"); 
+                addDefaultPost(); 
+              }}
+            >
             Send message
             </Button>
           </div>

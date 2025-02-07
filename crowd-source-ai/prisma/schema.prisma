@@ -1,0 +1,78 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// May not need to use this
+// model User {
+//   id String @id @default(cuid())
+//   first_name String
+//   last_name String?
+// }
+
+model Post {
+  id          String  @id @default(cuid())
+  author_name String
+  content     String?
+  image       String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  comments Comment[] // One-to-many
+
+  aiPosts AI_PostToPost[] // Many-to-many table
+}
+
+model Comment {
+  id          String  @id @default(cuid())
+  author_name String
+  content     String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  postID    String
+  post      Post     @relation(fields: [postID], references: [id], onDelete: Cascade) // onDelete: Cascade means that if the post is deleted, all comments associated with it will be deleted as well
+  AI_Post   AI_Post? @relation(fields: [aI_PostId], references: [id])
+  aI_PostId String?
+}
+
+model AI_Post {
+  id           String   @id @default(cuid())
+  author_names String[]
+  content      String?
+  image        String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  postID String[]
+  posts  AI_PostToPost[] // Many-to-many table
+
+  comments Comment[] // One-to-many
+}
+
+model AI_PostToPost {
+  id String @id @default(cuid())
+
+  // Relations
+  aiPostID String
+  aiPost   AI_Post @relation(fields: [aiPostID], references: [id], onDelete: Cascade)
+
+  postID String
+  post   Post   @relation(fields: [postID], references: [id])
+}
