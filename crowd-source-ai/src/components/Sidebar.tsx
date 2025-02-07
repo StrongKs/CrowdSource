@@ -17,14 +17,22 @@ export default function Sidebar() {
   const fetchSummaries = async () => {
     setLoading(true);
     try {
-      // const response = await fetch("/api/summaries");
-      // const data = await response.json();
-      // setSummaries(data);
+      // Dummy Data for Summaries
+      const data = [
+        { content: "AI is transforming the world in real-time." },
+        { content: "Quantum computing has the potential to revolutionize cryptography." },
+        { content: "Machine learning is increasingly used in healthcare." },
+        { content: "The future of work is shifting towards automation and AI collaboration." },
+        { content: "Neural networks mimic the human brain's structure to process information." },
+      ];
+  
+      setSummaries(data);
     } catch (error) {
       console.error("Error fetching summaries:", error);
     }
     setLoading(false);
   };
+  
 
   return (
     <Card className="w-full lg:w-1/4 min-h-screen bg-white dark:bg-gray-900 shadow-md rounded-lg p-4 border border-gray-200 dark:border-gray-700 
