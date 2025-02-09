@@ -17,13 +17,13 @@ export async function addDefaultPost() {
     }
 }
 
-// Not tested
+// Tested
 export async function addPosts(author_name: string, content: string) {
     try {
         const post = await prisma.post.create({
             data: {
-                author_name: `${author_name}`,
-                content: `${content}`,
+                author_name: `${author_name || ""}`,
+                content: `${content || ""}`,
             }
         });
         console.log("Post created successfully", post);
@@ -32,7 +32,7 @@ export async function addPosts(author_name: string, content: string) {
     }
 }
 
-
+ 
 // Not Tested
 export async function getPosts() {
     try {
