@@ -10,7 +10,7 @@ import { Button } from "./ui/button";
 // import { createPost } from "@/actions/post.action";
 // import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
-import { addDefaultPost } from "@/actions/post.action";
+import { addDefaultPost, addPosts } from "@/actions/post.action";
 
 function CreatePost() {
 //   const { user } = useUser();
@@ -24,7 +24,8 @@ function CreatePost() {
 
     setIsPosting(true);
     try {
-      addDefaultPost();
+      addPosts("author_name", content); // we need to create UI for author_name
+      console.log("Content " + content);
       console.log("Default Post created successfully");
       // const result = await createPost(content, imageUrl);
       // if (result?.success) {
