@@ -28,7 +28,7 @@ Crowd Source is a tool for communities to communicate with first responders in t
 - Tiancheng Zhou
 - David Willis
 
-  ## INSTRUCTIONS FOR TESTING
+  ## Instructions for Testing
 
   1. From https://github.com/StrongKs/CrowdSource/ click "Code" and then in the drop down select "Download Zip"
   2. Unzip the Folder
