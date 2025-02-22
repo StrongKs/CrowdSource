@@ -26,7 +26,7 @@ function CreatePost() {
     try {
       addPosts("author_name", content); // we need to create UI for author_name
       console.log("Content " + content);
-      console.log("Default Post created successfully");
+      console.log("Post created successfully with content but not actual author name");
       // const result = await createPost(content, imageUrl);
       // if (result?.success) {
       //   // reset the form
