@@ -11,6 +11,7 @@ import { Button } from "./ui/button";
 // import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
 import { addDefaultPost, addPosts } from "@/actions/post.action";
+import { DeekSeepRequest } from '@/app/api/deepseek/route';
 
 function CreatePost() {
 //   const { user } = useUser();
@@ -27,6 +28,11 @@ function CreatePost() {
       addPosts("author_name", content); // we need to create UI for author_name
       console.log("Content " + content);
       console.log("Post created successfully with content but not actual author name");
+
+      console.log("Calling POST DeepSeekAPI");
+      const response = await DeekSeepRequest(content);
+      console.log("Response: " + response);
+
       // const result = await createPost(content, imageUrl);
       // if (result?.success) {
       //   // reset the form
