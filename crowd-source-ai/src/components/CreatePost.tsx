@@ -11,7 +11,7 @@ import { Button } from "./ui/button";
 // import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
 import { addDefaultPost, addPosts } from "@/actions/post.action";
-import { DeekSeepRequest } from '@/app/api/deepseek/route';
+import { OpenAI_Request } from '@/app/api/deepseek/route';
 
 function CreatePost() {
 //   const { user } = useUser();
@@ -29,8 +29,8 @@ function CreatePost() {
       console.log("Content " + content);
       console.log("Post created successfully with content but not actual author name");
 
-      console.log("Calling POST DeepSeekAPI");
-      const response = await DeekSeepRequest(content);
+      console.log("Calling POST OpenAI API");
+      const response = await OpenAI_Request(content);
       console.log("Response: " + response);
 
       // const result = await createPost(content, imageUrl);
@@ -42,6 +42,7 @@ function CreatePost() {
 
       //   toast.success("Post created successfully");
       // }
+
     } catch (error) {
       console.error("Failed to create post:", error);
       // toast.error("Failed to create post");

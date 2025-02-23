@@ -1,25 +1,31 @@
+"use server";
+
 import OpenAI from "openai";
+import * as dotenv from "dotenv";
 
-// Assuming you are using a Node.js environment, you can use process.env
-const env = (key: string) => process.env[key];
+// Load environment variables
+dotenv.config();
 
-// for backward compatibility, you can still use `https://api.deepseek.com/v1` as `baseURL`.
-const openai = new OpenAI({
-        baseURL: 'https://openrouter.ai/api/v1',
-        apiKey: "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",
-        dangerouslyAllowBrowser: true,
-});
+// Debugging: Print the API key
+console.log("Raw API Key:", process.env.OPENAI_API_KEY);
+console.log("API Key Length:", process.env.OPENAI_API_KEY?.length || "Not Set");
 
-export async function DeekSeepRequest(_content: string) {
-  const completion = await openai.chat.completions.create({
-    model: 'deepseek/deepseek-r1:free',
-    messages: [
-      {
-        role: 'user',
-        content: _content,
-      },
-    ],
-  });
+const openai = new OpenAI();
 
-  console.log(completion.choices[0].message.content);
+
+export async function OpenAI_Request(_content: string) {
+    const stream = await openai.chat.completions.create({
+        model: "gpt-4o-mini",
+        messages: [{ role: "user", content: _content }],
+        store: true,
+        stream: true,
+    });
+    let message = "";
+    for await (const chunk of stream) {
+        message += chunk.choices[0]?.delta?.content || "";
+    }
+    return message;
+
+
+//   console.log(completion.choices[0].message.content);
 }
