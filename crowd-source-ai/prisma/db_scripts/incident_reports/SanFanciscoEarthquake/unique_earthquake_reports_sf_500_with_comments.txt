@@ -1,0 +1,2194 @@
+Report ID: R001 | User ID: U467 | Timestamp: 09:10 AM | Location: Financial District (37.7946, -122.3999) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [09:17 AM] People are handing out water and blankets here.
+    - [09:32 AM] I heard sirens heading in that direction.
+    - [09:31 AM] Gas stations are running out of fuel fast.
+
+Report ID: R002 | User ID: U324 | Timestamp: 09:57 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+
+Report ID: R003 | User ID: U547 | Timestamp: 08:34 AM | Location: Union Square (37.7879, -122.4074) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [08:50 AM] Aftershocks are still happening, be careful!
+    - [08:38 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R004 | User ID: U662 | Timestamp: 10:06 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [10:36 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R005 | User ID: U530 | Timestamp: 09:09 AM | Location: Union Square (37.7879, -122.4074) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [09:13 AM] I just drove past this area, it's really bad.
+    - [09:20 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R006 | User ID: U968 | Timestamp: 09:42 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:50 AM] There was another fire reported nearby.
+    - [09:59 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R007 | User ID: U160 | Timestamp: 09:30 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+
+Report ID: R008 | User ID: U897 | Timestamp: 09:31 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+
+Report ID: R009 | User ID: U546 | Timestamp: 09:02 AM | Location: Mission District (37.7599, -122.4148) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+
+Report ID: R010 | User ID: U357 | Timestamp: 09:49 AM | Location: Financial District (37.7946, -122.3999) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+  Comments:
+    - [09:54 AM] Gas stations are running out of fuel fast.
+    - [10:01 AM] We need volunteers at the shelters.
+
+Report ID: R011 | User ID: U533 | Timestamp: 09:47 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [09:52 AM] Rescue crews are already here working on it.
+    - [10:12 AM] We need volunteers at the shelters.
+    - [09:55 AM] First responders are struggling to reach some areas.
+
+Report ID: R012 | User ID: U212 | Timestamp: 08:27 AM | Location: Union Square (37.7879, -122.4074) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [08:57 AM] Rescue crews are already here working on it.
+    - [08:32 AM] Gas stations are running out of fuel fast.
+    - [08:34 AM] Police have blocked off the area for safety.
+
+Report ID: R013 | User ID: U340 | Timestamp: 08:52 AM | Location: Financial District (37.7946, -122.3999) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [09:17 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R014 | User ID: U504 | Timestamp: 10:07 AM | Location: Presidio (37.7989, -122.4662) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+  Comments:
+    - [10:27 AM] We need volunteers at the shelters.
+    - [10:18 AM] Aftershocks are still happening, be careful!
+    - [10:13 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R015 | User ID: U606 | Timestamp: 09:41 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [09:56 AM] This is getting worse, emergency teams need more support.
+    - [09:49 AM] We need volunteers at the shelters.
+    - [09:43 AM] Police have blocked off the area for safety.
+
+Report ID: R016 | User ID: U280 | Timestamp: 09:32 AM | Location: Embarcadero (37.7955, -122.3937) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+
+Report ID: R017 | User ID: U340 | Timestamp: 09:07 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+  Comments:
+    - [09:19 AM] I just drove past this area, it's really bad.
+
+Report ID: R018 | User ID: U465 | Timestamp: 09:35 AM | Location: Financial District (37.7946, -122.3999) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [09:37 AM] I just drove past this area, it's really bad.
+    - [09:42 AM] First responders are struggling to reach some areas.
+    - [09:43 AM] I just drove past this area, it's really bad.
+
+Report ID: R019 | User ID: U790 | Timestamp: 09:53 AM | Location: Embarcadero (37.7955, -122.3937) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+
+Report ID: R020 | User ID: U601 | Timestamp: 09:22 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+
+Report ID: R021 | User ID: U349 | Timestamp: 09:59 AM | Location: Union Square (37.7879, -122.4074) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [10:09 AM] We need volunteers at the shelters.
+
+Report ID: R022 | User ID: U985 | Timestamp: 08:38 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [08:58 AM] A gas leak was just reported close to here.
+
+Report ID: R023 | User ID: U149 | Timestamp: 10:11 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [10:26 AM] Police have blocked off the area for safety.
+
+Report ID: R024 | User ID: U577 | Timestamp: 10:04 AM | Location: Chinatown (37.7941, -122.4078) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+  Comments:
+    - [10:13 AM] We need volunteers at the shelters.
+
+Report ID: R025 | User ID: U586 | Timestamp: 08:38 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [08:43 AM] I saw this too! The shaking was intense.
+
+Report ID: R026 | User ID: U620 | Timestamp: 08:53 AM | Location: Presidio (37.7989, -122.4662) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [09:15 AM] First responders are struggling to reach some areas.
+    - [09:16 AM] First responders are struggling to reach some areas.
+
+Report ID: R027 | User ID: U747 | Timestamp: 08:20 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Water pipes have burst across the city, flooding subway tunnels.
+  Comments:
+    - [08:39 AM] A gas leak was just reported close to here.
+    - [08:24 AM] A gas leak was just reported close to here.
+
+Report ID: R028 | User ID: U163 | Timestamp: 09:56 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [10:14 AM] A gas leak was just reported close to here.
+    - [10:20 AM] There was another fire reported nearby.
+    - [10:05 AM] Rescue crews are already here working on it.
+
+Report ID: R029 | User ID: U987 | Timestamp: 08:31 AM | Location: Union Square (37.7879, -122.4074) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+
+Report ID: R030 | User ID: U792 | Timestamp: 09:48 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [10:13 AM] Aftershocks are still happening, be careful!
+    - [10:14 AM] Gas stations are running out of fuel fast.
+    - [09:57 AM] I saw this too! The shaking was intense.
+
+Report ID: R031 | User ID: U496 | Timestamp: 10:14 AM | Location: Financial District (37.7946, -122.3999) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [10:33 AM] My neighbor’s house collapsed on the same block!
+    - [10:32 AM] Rescue crews are already here working on it.
+
+Report ID: R032 | User ID: U300 | Timestamp: 10:03 AM | Location: Presidio (37.7989, -122.4662) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [10:07 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:24 AM] We need volunteers at the shelters.
+
+Report ID: R033 | User ID: U197 | Timestamp: 08:54 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [09:07 AM] First responders are struggling to reach some areas.
+
+Report ID: R034 | User ID: U233 | Timestamp: 10:09 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [10:39 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R035 | User ID: U728 | Timestamp: 08:28 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Military helicopters are circling the city, assisting in rescue operations.
+
+Report ID: R036 | User ID: U736 | Timestamp: 08:42 AM | Location: Union Square (37.7879, -122.4074) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+  Comments:
+    - [09:10 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R037 | User ID: U127 | Timestamp: 09:03 AM | Location: Union Square (37.7879, -122.4074) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:17 AM] Rescue crews are already here working on it.
+    - [09:30 AM] First responders are struggling to reach some areas.
+    - [09:12 AM] A gas leak was just reported close to here.
+
+Report ID: R038 | User ID: U926 | Timestamp: 10:01 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [10:23 AM] Police have blocked off the area for safety.
+
+Report ID: R039 | User ID: U880 | Timestamp: 08:45 AM | Location: Presidio (37.7989, -122.4662) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+
+Report ID: R040 | User ID: U822 | Timestamp: 09:17 AM | Location: Mission District (37.7599, -122.4148) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [09:41 AM] Police have blocked off the area for safety.
+
+Report ID: R041 | User ID: U795 | Timestamp: 08:43 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A cracked dam near the city is being monitored for potential failure.
+  Comments:
+    - [08:52 AM] We need volunteers at the shelters.
+    - [08:58 AM] This is getting worse, emergency teams need more support.
+    - [09:11 AM] First responders are struggling to reach some areas.
+
+Report ID: R042 | User ID: U934 | Timestamp: 08:47 AM | Location: Mission District (37.7599, -122.4148) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [09:05 AM] I heard sirens heading in that direction.
+    - [09:17 AM] Aftershocks are still happening, be careful!
+    - [09:09 AM] Police have blocked off the area for safety.
+
+Report ID: R043 | User ID: U913 | Timestamp: 10:01 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+
+Report ID: R044 | User ID: U393 | Timestamp: 09:22 AM | Location: Mission District (37.7599, -122.4148) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [09:52 AM] I just drove past this area, it's really bad.
+    - [09:33 AM] I saw this too! The shaking was intense.
+
+Report ID: R045 | User ID: U607 | Timestamp: 10:06 AM | Location: Embarcadero (37.7955, -122.3937) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [10:24 AM] People are handing out water and blankets here.
+    - [10:09 AM] There was another fire reported nearby.
+
+Report ID: R046 | User ID: U769 | Timestamp: 08:27 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [08:37 AM] I heard sirens heading in that direction.
+    - [08:34 AM] Traffic is a nightmare, avoid this route if you can.
+    - [08:54 AM] Aftershocks are still happening, be careful!
+
+Report ID: R047 | User ID: U859 | Timestamp: 08:28 AM | Location: Presidio (37.7989, -122.4662) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [08:49 AM] Gas stations are running out of fuel fast.
+
+Report ID: R048 | User ID: U328 | Timestamp: 08:45 AM | Location: Chinatown (37.7941, -122.4078) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+  Comments:
+    - [08:50 AM] The damage is worse than expected. Stay safe!
+    - [09:07 AM] Gas stations are running out of fuel fast.
+
+Report ID: R049 | User ID: U217 | Timestamp: 09:31 AM | Location: Presidio (37.7989, -122.4662) | Description: Drone footage is revealing entire blocks flattened by the quake.
+
+Report ID: R050 | User ID: U304 | Timestamp: 09:08 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [09:24 AM] People are handing out water and blankets here.
+    - [09:17 AM] A gas leak was just reported close to here.
+
+Report ID: R051 | User ID: U951 | Timestamp: 08:56 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [08:57 AM] I heard sirens heading in that direction.
+    - [09:24 AM] My family and I just evacuated from this street.
+
+Report ID: R052 | User ID: U898 | Timestamp: 09:49 AM | Location: Mission District (37.7599, -122.4148) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [10:11 AM] We need volunteers at the shelters.
+
+Report ID: R053 | User ID: U647 | Timestamp: 08:37 AM | Location: Presidio (37.7989, -122.4662) | Description: The city’s main bridges are being inspected for damage before reopening.
+
+Report ID: R054 | User ID: U841 | Timestamp: 08:31 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A group of volunteers is helping clear rubble from the streets.
+  Comments:
+    - [08:55 AM] A gas leak was just reported close to here.
+
+Report ID: R055 | User ID: U549 | Timestamp: 08:33 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [08:54 AM] People are handing out water and blankets here.
+    - [08:46 AM] Gas stations are running out of fuel fast.
+    - [08:40 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R056 | User ID: U729 | Timestamp: 09:18 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+
+Report ID: R057 | User ID: U144 | Timestamp: 10:15 AM | Location: Presidio (37.7989, -122.4662) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [10:44 AM] We need volunteers at the shelters.
+    - [10:33 AM] This is getting worse, emergency teams need more support.
+    - [10:27 AM] Aftershocks are still happening, be careful!
+
+Report ID: R058 | User ID: U649 | Timestamp: 09:41 AM | Location: Chinatown (37.7941, -122.4078) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [09:53 AM] I just drove past this area, it's really bad.
+    - [09:48 AM] The damage is worse than expected. Stay safe!
+    - [09:58 AM] I just drove past this area, it's really bad.
+
+Report ID: R059 | User ID: U985 | Timestamp: 09:28 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [09:37 AM] People are handing out water and blankets here.
+    - [09:33 AM] Gas stations are running out of fuel fast.
+
+Report ID: R060 | User ID: U900 | Timestamp: 10:06 AM | Location: Chinatown (37.7941, -122.4078) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [10:14 AM] Gas stations are running out of fuel fast.
+
+Report ID: R061 | User ID: U476 | Timestamp: 08:34 AM | Location: Presidio (37.7989, -122.4662) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [08:52 AM] Police have blocked off the area for safety.
+
+Report ID: R062 | User ID: U627 | Timestamp: 09:31 AM | Location: Mission District (37.7599, -122.4148) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:46 AM] My neighbor’s house collapsed on the same block!
+    - [09:38 AM] Police have blocked off the area for safety.
+    - [09:44 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R063 | User ID: U491 | Timestamp: 09:51 AM | Location: Union Square (37.7879, -122.4074) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [09:58 AM] First responders are struggling to reach some areas.
+    - [10:11 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R064 | User ID: U788 | Timestamp: 09:41 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+  Comments:
+    - [09:43 AM] I just drove past this area, it's really bad.
+    - [09:54 AM] I heard sirens heading in that direction.
+
+Report ID: R065 | User ID: U352 | Timestamp: 09:43 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [10:04 AM] Rescue crews are already here working on it.
+    - [09:55 AM] People are handing out water and blankets here.
+    - [09:53 AM] I just drove past this area, it's really bad.
+
+Report ID: R066 | User ID: U628 | Timestamp: 09:56 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+  Comments:
+    - [10:21 AM] A gas leak was just reported close to here.
+
+Report ID: R067 | User ID: U491 | Timestamp: 10:04 AM | Location: Mission District (37.7599, -122.4148) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [10:30 AM] The bridge is definitely cracked, saw it myself.
+    - [10:14 AM] Rescue crews are already here working on it.
+    - [10:25 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R068 | User ID: U177 | Timestamp: 09:40 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [09:45 AM] A gas leak was just reported close to here.
+
+Report ID: R069 | User ID: U930 | Timestamp: 08:34 AM | Location: Presidio (37.7989, -122.4662) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [08:54 AM] My family and I just evacuated from this street.
+    - [08:48 AM] Rescue crews are already here working on it.
+
+Report ID: R070 | User ID: U809 | Timestamp: 08:42 AM | Location: Presidio (37.7989, -122.4662) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+  Comments:
+    - [08:46 AM] I saw this too! The shaking was intense.
+    - [08:50 AM] Gas stations are running out of fuel fast.
+    - [09:08 AM] A gas leak was just reported close to here.
+
+Report ID: R071 | User ID: U345 | Timestamp: 09:05 AM | Location: Presidio (37.7989, -122.4662) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [09:27 AM] This is getting worse, emergency teams need more support.
+    - [09:22 AM] I just drove past this area, it's really bad.
+
+Report ID: R072 | User ID: U304 | Timestamp: 10:08 AM | Location: Presidio (37.7989, -122.4662) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [10:14 AM] I heard sirens heading in that direction.
+
+Report ID: R073 | User ID: U512 | Timestamp: 09:23 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+  Comments:
+    - [09:31 AM] We need volunteers at the shelters.
+
+Report ID: R074 | User ID: U613 | Timestamp: 09:01 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [09:11 AM] I saw this too! The shaking was intense.
+    - [09:22 AM] I just drove past this area, it's really bad.
+
+Report ID: R075 | User ID: U356 | Timestamp: 09:34 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [09:45 AM] This is getting worse, emergency teams need more support.
+    - [10:01 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R076 | User ID: U656 | Timestamp: 09:12 AM | Location: Union Square (37.7879, -122.4074) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [09:35 AM] People are handing out water and blankets here.
+    - [09:23 AM] We need volunteers at the shelters.
+    - [09:29 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R077 | User ID: U584 | Timestamp: 08:49 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [09:16 AM] Can confirm, I lost power in the same location.
+
+Report ID: R078 | User ID: U401 | Timestamp: 09:08 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A massive fire has engulfed a residential block near North Beach.
+
+Report ID: R079 | User ID: U377 | Timestamp: 08:21 AM | Location: Presidio (37.7989, -122.4662) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [08:36 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R080 | User ID: U373 | Timestamp: 09:58 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+
+Report ID: R081 | User ID: U933 | Timestamp: 09:25 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [09:27 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:47 AM] Helicopters are circling the city, getting a better view.
+    - [09:37 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R082 | User ID: U697 | Timestamp: 09:37 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [09:59 AM] A gas leak was just reported close to here.
+
+Report ID: R083 | User ID: U320 | Timestamp: 09:40 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Water pipes have burst across the city, flooding subway tunnels.
+  Comments:
+    - [09:43 AM] There was another fire reported nearby.
+
+Report ID: R084 | User ID: U520 | Timestamp: 08:56 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+
+Report ID: R085 | User ID: U815 | Timestamp: 09:40 AM | Location: Union Square (37.7879, -122.4074) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [09:58 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R086 | User ID: U855 | Timestamp: 09:37 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [09:47 AM] We need volunteers at the shelters.
+
+Report ID: R087 | User ID: U117 | Timestamp: 08:25 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [08:45 AM] Rescue crews are already here working on it.
+    - [08:51 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R088 | User ID: U700 | Timestamp: 09:50 AM | Location: Chinatown (37.7941, -122.4078) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [10:12 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:56 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R089 | User ID: U188 | Timestamp: 09:34 AM | Location: Union Square (37.7879, -122.4074) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [09:52 AM] Can confirm, I lost power in the same location.
+
+Report ID: R090 | User ID: U880 | Timestamp: 09:32 AM | Location: Mission District (37.7599, -122.4148) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [09:34 AM] I saw this too! The shaking was intense.
+    - [10:02 AM] Rescue crews are already here working on it.
+
+Report ID: R091 | User ID: U530 | Timestamp: 08:46 AM | Location: Financial District (37.7946, -122.3999) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [09:04 AM] My neighbor’s house collapsed on the same block!
+    - [09:01 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R092 | User ID: U385 | Timestamp: 09:06 AM | Location: Mission District (37.7599, -122.4148) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+  Comments:
+    - [09:16 AM] I just drove past this area, it's really bad.
+    - [09:16 AM] This is getting worse, emergency teams need more support.
+    - [09:26 AM] People are handing out water and blankets here.
+
+Report ID: R093 | User ID: U934 | Timestamp: 08:30 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [08:42 AM] Gas stations are running out of fuel fast.
+    - [08:50 AM] There was another fire reported nearby.
+    - [08:54 AM] Can confirm, I lost power in the same location.
+
+Report ID: R094 | User ID: U993 | Timestamp: 08:34 AM | Location: Presidio (37.7989, -122.4662) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [09:00 AM] Gas stations are running out of fuel fast.
+
+Report ID: R095 | User ID: U639 | Timestamp: 09:17 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+  Comments:
+    - [09:47 AM] The damage is worse than expected. Stay safe!
+    - [09:21 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R096 | User ID: U929 | Timestamp: 08:29 AM | Location: Presidio (37.7989, -122.4662) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [08:37 AM] First responders are struggling to reach some areas.
+    - [08:37 AM] Can confirm, I lost power in the same location.
+    - [08:38 AM] First responders are struggling to reach some areas.
+
+Report ID: R097 | User ID: U503 | Timestamp: 09:41 AM | Location: Mission District (37.7599, -122.4148) | Description: A cracked dam near the city is being monitored for potential failure.
+
+Report ID: R098 | User ID: U267 | Timestamp: 08:24 AM | Location: Financial District (37.7946, -122.3999) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [08:50 AM] Can confirm, I lost power in the same location.
+    - [08:38 AM] Gas stations are running out of fuel fast.
+    - [08:34 AM] My family and I just evacuated from this street.
+
+Report ID: R099 | User ID: U333 | Timestamp: 09:00 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [09:17 AM] Helicopters are circling the city, getting a better view.
+    - [09:17 AM] I saw this too! The shaking was intense.
+    - [09:09 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R100 | User ID: U962 | Timestamp: 09:26 AM | Location: Presidio (37.7989, -122.4662) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [09:54 AM] My family and I just evacuated from this street.
+    - [09:56 AM] People are handing out water and blankets here.
+
+Report ID: R101 | User ID: U111 | Timestamp: 08:48 AM | Location: Union Square (37.7879, -122.4074) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [09:06 AM] My family and I just evacuated from this street.
+
+Report ID: R102 | User ID: U681 | Timestamp: 08:23 AM | Location: Chinatown (37.7941, -122.4078) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [08:32 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R103 | User ID: U770 | Timestamp: 09:25 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Businesses are offering free food and shelter to those displaced.
+
+Report ID: R104 | User ID: U984 | Timestamp: 09:07 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+  Comments:
+    - [09:10 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R105 | User ID: U173 | Timestamp: 09:21 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Drone footage is revealing entire blocks flattened by the quake.
+  Comments:
+    - [09:25 AM] There was another fire reported nearby.
+
+Report ID: R106 | User ID: U193 | Timestamp: 08:50 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [09:06 AM] Police have blocked off the area for safety.
+    - [09:20 AM] I saw this too! The shaking was intense.
+
+Report ID: R107 | User ID: U648 | Timestamp: 09:41 AM | Location: Financial District (37.7946, -122.3999) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [09:55 AM] There was another fire reported nearby.
+
+Report ID: R108 | User ID: U409 | Timestamp: 08:56 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+
+Report ID: R109 | User ID: U758 | Timestamp: 08:31 AM | Location: Mission District (37.7599, -122.4148) | Description: The city’s main bridges are being inspected for damage before reopening.
+  Comments:
+    - [08:39 AM] We need volunteers at the shelters.
+
+Report ID: R110 | User ID: U902 | Timestamp: 09:40 AM | Location: Financial District (37.7946, -122.3999) | Description: A group of volunteers is helping clear rubble from the streets.
+
+Report ID: R111 | User ID: U734 | Timestamp: 09:31 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [09:33 AM] Rescue crews are already here working on it.
+    - [09:35 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R112 | User ID: U393 | Timestamp: 08:42 AM | Location: Financial District (37.7946, -122.3999) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+  Comments:
+    - [08:51 AM] Police have blocked off the area for safety.
+    - [08:49 AM] A gas leak was just reported close to here.
+
+Report ID: R113 | User ID: U498 | Timestamp: 09:15 AM | Location: Financial District (37.7946, -122.3999) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [09:31 AM] There was another fire reported nearby.
+
+Report ID: R114 | User ID: U500 | Timestamp: 08:55 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [09:21 AM] Rescue crews are already here working on it.
+    - [09:24 AM] This is getting worse, emergency teams need more support.
+    - [09:04 AM] A gas leak was just reported close to here.
+
+Report ID: R115 | User ID: U412 | Timestamp: 08:35 AM | Location: Financial District (37.7946, -122.3999) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [09:04 AM] Gas stations are running out of fuel fast.
+    - [08:59 AM] There was another fire reported nearby.
+
+Report ID: R116 | User ID: U490 | Timestamp: 08:38 AM | Location: Union Square (37.7879, -122.4074) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [09:08 AM] Rescue crews are already here working on it.
+    - [08:49 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R117 | User ID: U216 | Timestamp: 08:55 AM | Location: Financial District (37.7946, -122.3999) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [09:18 AM] Aftershocks are still happening, be careful!
+    - [08:58 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:05 AM] Rescue crews are already here working on it.
+
+Report ID: R118 | User ID: U482 | Timestamp: 09:46 AM | Location: Mission District (37.7599, -122.4148) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:58 AM] Can confirm, I lost power in the same location.
+    - [09:51 AM] A gas leak was just reported close to here.
+
+Report ID: R119 | User ID: U479 | Timestamp: 09:02 AM | Location: Union Square (37.7879, -122.4074) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [09:07 AM] There was another fire reported nearby.
+    - [09:16 AM] Police have blocked off the area for safety.
+    - [09:30 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R120 | User ID: U784 | Timestamp: 09:23 AM | Location: Financial District (37.7946, -122.3999) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+  Comments:
+    - [09:51 AM] Aftershocks are still happening, be careful!
+    - [09:27 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R121 | User ID: U944 | Timestamp: 10:11 AM | Location: Chinatown (37.7941, -122.4078) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [10:23 AM] People are handing out water and blankets here.
+    - [10:35 AM] This is getting worse, emergency teams need more support.
+    - [10:37 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R122 | User ID: U613 | Timestamp: 09:26 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+  Comments:
+    - [09:35 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:33 AM] The damage is worse than expected. Stay safe!
+    - [09:51 AM] Can confirm, I lost power in the same location.
+
+Report ID: R123 | User ID: U650 | Timestamp: 09:25 AM | Location: Chinatown (37.7941, -122.4078) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [09:41 AM] First responders are struggling to reach some areas.
+    - [09:53 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R124 | User ID: U206 | Timestamp: 09:51 AM | Location: Financial District (37.7946, -122.3999) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [10:21 AM] I saw this too! The shaking was intense.
+
+Report ID: R125 | User ID: U219 | Timestamp: 08:36 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+
+Report ID: R126 | User ID: U806 | Timestamp: 09:11 AM | Location: Mission District (37.7599, -122.4148) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+  Comments:
+    - [09:16 AM] People are handing out water and blankets here.
+    - [09:26 AM] We need volunteers at the shelters.
+
+Report ID: R127 | User ID: U456 | Timestamp: 08:36 AM | Location: Union Square (37.7879, -122.4074) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [08:39 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R128 | User ID: U114 | Timestamp: 09:36 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+
+Report ID: R129 | User ID: U814 | Timestamp: 09:59 AM | Location: Mission District (37.7599, -122.4148) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+
+Report ID: R130 | User ID: U120 | Timestamp: 08:57 AM | Location: Chinatown (37.7941, -122.4078) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [08:59 AM] My family and I just evacuated from this street.
+    - [09:23 AM] Gas stations are running out of fuel fast.
+
+Report ID: R131 | User ID: U980 | Timestamp: 09:55 AM | Location: Presidio (37.7989, -122.4662) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [10:21 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:05 AM] There was another fire reported nearby.
+
+Report ID: R132 | User ID: U430 | Timestamp: 08:19 AM | Location: Chinatown (37.7941, -122.4078) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [08:35 AM] I heard sirens heading in that direction.
+    - [08:46 AM] Rescue crews are already here working on it.
+    - [08:37 AM] There was another fire reported nearby.
+
+Report ID: R133 | User ID: U282 | Timestamp: 09:03 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [09:05 AM] Helicopters are circling the city, getting a better view.
+    - [09:07 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R134 | User ID: U489 | Timestamp: 08:52 AM | Location: Mission District (37.7599, -122.4148) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [09:01 AM] My family and I just evacuated from this street.
+    - [09:10 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R135 | User ID: U713 | Timestamp: 08:19 AM | Location: Chinatown (37.7941, -122.4078) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [08:35 AM] Rescue crews are already here working on it.
+    - [08:34 AM] There was another fire reported nearby.
+
+Report ID: R136 | User ID: U434 | Timestamp: 09:52 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+  Comments:
+    - [09:59 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R137 | User ID: U592 | Timestamp: 09:11 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [09:22 AM] My neighbor’s house collapsed on the same block!
+    - [09:32 AM] I saw this too! The shaking was intense.
+    - [09:36 AM] Can confirm, I lost power in the same location.
+
+Report ID: R138 | User ID: U555 | Timestamp: 09:16 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [09:33 AM] We need volunteers at the shelters.
+    - [09:28 AM] Rescue crews are already here working on it.
+    - [09:20 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R139 | User ID: U605 | Timestamp: 10:01 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Water pipes have burst across the city, flooding subway tunnels.
+
+Report ID: R140 | User ID: U558 | Timestamp: 10:10 AM | Location: Financial District (37.7946, -122.3999) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [10:16 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R141 | User ID: U562 | Timestamp: 08:27 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+
+Report ID: R142 | User ID: U784 | Timestamp: 09:38 AM | Location: Mission District (37.7599, -122.4148) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [09:53 AM] A gas leak was just reported close to here.
+    - [09:51 AM] First responders are struggling to reach some areas.
+    - [09:42 AM] My family and I just evacuated from this street.
+
+Report ID: R143 | User ID: U226 | Timestamp: 09:19 AM | Location: Financial District (37.7946, -122.3999) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+
+Report ID: R144 | User ID: U695 | Timestamp: 09:47 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [10:06 AM] We need volunteers at the shelters.
+    - [09:51 AM] I heard sirens heading in that direction.
+
+Report ID: R145 | User ID: U366 | Timestamp: 08:38 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [08:46 AM] We need volunteers at the shelters.
+    - [08:51 AM] My family and I just evacuated from this street.
+
+Report ID: R146 | User ID: U466 | Timestamp: 09:38 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [09:55 AM] People are handing out water and blankets here.
+    - [09:47 AM] First responders are struggling to reach some areas.
+
+Report ID: R147 | User ID: U347 | Timestamp: 09:46 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [10:00 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R148 | User ID: U296 | Timestamp: 10:07 AM | Location: Mission District (37.7599, -122.4148) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+  Comments:
+    - [10:36 AM] My family and I just evacuated from this street.
+    - [10:16 AM] Police have blocked off the area for safety.
+
+Report ID: R149 | User ID: U187 | Timestamp: 09:13 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:39 AM] We need volunteers at the shelters.
+
+Report ID: R150 | User ID: U833 | Timestamp: 09:48 AM | Location: Mission District (37.7599, -122.4148) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+
+Report ID: R151 | User ID: U839 | Timestamp: 09:32 AM | Location: Union Square (37.7879, -122.4074) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+
+Report ID: R152 | User ID: U393 | Timestamp: 08:46 AM | Location: Embarcadero (37.7955, -122.3937) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [08:51 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R153 | User ID: U798 | Timestamp: 10:00 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A cracked dam near the city is being monitored for potential failure.
+  Comments:
+    - [10:24 AM] Gas stations are running out of fuel fast.
+
+Report ID: R154 | User ID: U347 | Timestamp: 09:26 AM | Location: Financial District (37.7946, -122.3999) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [09:54 AM] I saw this too! The shaking was intense.
+    - [09:52 AM] There was another fire reported nearby.
+    - [09:27 AM] I heard sirens heading in that direction.
+
+Report ID: R155 | User ID: U483 | Timestamp: 08:26 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [08:50 AM] First responders are struggling to reach some areas.
+    - [08:41 AM] Helicopters are circling the city, getting a better view.
+    - [08:29 AM] A gas leak was just reported close to here.
+
+Report ID: R156 | User ID: U671 | Timestamp: 10:00 AM | Location: Financial District (37.7946, -122.3999) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [10:26 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:26 AM] Police have blocked off the area for safety.
+
+Report ID: R157 | User ID: U151 | Timestamp: 09:35 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [10:02 AM] I heard sirens heading in that direction.
+    - [09:56 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R158 | User ID: U900 | Timestamp: 09:14 AM | Location: Union Square (37.7879, -122.4074) | Description: First responders are prioritizing those trapped under debris before nightfall.
+
+Report ID: R159 | User ID: U432 | Timestamp: 08:17 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [08:19 AM] A gas leak was just reported close to here.
+    - [08:46 AM] Aftershocks are still happening, be careful!
+    - [08:29 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R160 | User ID: U919 | Timestamp: 09:33 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+
+Report ID: R161 | User ID: U539 | Timestamp: 08:26 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Drone footage is revealing entire blocks flattened by the quake.
+
+Report ID: R162 | User ID: U217 | Timestamp: 09:32 AM | Location: Mission District (37.7599, -122.4148) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [09:43 AM] I just drove past this area, it's really bad.
+
+Report ID: R163 | User ID: U808 | Timestamp: 09:44 AM | Location: Union Square (37.7879, -122.4074) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [09:59 AM] Rescue crews are already here working on it.
+    - [09:56 AM] This is getting worse, emergency teams need more support.
+    - [09:59 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R164 | User ID: U227 | Timestamp: 09:54 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+
+Report ID: R165 | User ID: U157 | Timestamp: 08:20 AM | Location: Financial District (37.7946, -122.3999) | Description: The city’s main bridges are being inspected for damage before reopening.
+  Comments:
+    - [08:23 AM] We need volunteers at the shelters.
+    - [08:22 AM] People are handing out water and blankets here.
+
+Report ID: R166 | User ID: U871 | Timestamp: 09:29 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A group of volunteers is helping clear rubble from the streets.
+  Comments:
+    - [09:50 AM] There was another fire reported nearby.
+    - [09:43 AM] People are handing out water and blankets here.
+    - [09:51 AM] Can confirm, I lost power in the same location.
+
+Report ID: R167 | User ID: U898 | Timestamp: 08:26 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [08:56 AM] Police have blocked off the area for safety.
+    - [08:44 AM] I saw this too! The shaking was intense.
+
+Report ID: R168 | User ID: U291 | Timestamp: 08:54 AM | Location: Mission District (37.7599, -122.4148) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+
+Report ID: R169 | User ID: U366 | Timestamp: 09:47 AM | Location: Presidio (37.7989, -122.4662) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [09:51 AM] I just drove past this area, it's really bad.
+
+Report ID: R170 | User ID: U949 | Timestamp: 09:59 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [10:13 AM] Rescue crews are already here working on it.
+    - [10:16 AM] Aftershocks are still happening, be careful!
+    - [10:21 AM] First responders are struggling to reach some areas.
+
+Report ID: R171 | User ID: U168 | Timestamp: 08:18 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [08:44 AM] Helicopters are circling the city, getting a better view.
+    - [08:48 AM] Rescue crews are already here working on it.
+
+Report ID: R172 | User ID: U676 | Timestamp: 08:19 AM | Location: Mission District (37.7599, -122.4148) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [08:30 AM] We need volunteers at the shelters.
+    - [08:43 AM] I saw this too! The shaking was intense.
+    - [08:30 AM] There was another fire reported nearby.
+
+Report ID: R173 | User ID: U440 | Timestamp: 09:23 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+
+Report ID: R174 | User ID: U517 | Timestamp: 09:01 AM | Location: Chinatown (37.7941, -122.4078) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:30 AM] I saw this too! The shaking was intense.
+    - [09:16 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R175 | User ID: U416 | Timestamp: 09:10 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+
+Report ID: R176 | User ID: U541 | Timestamp: 09:28 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+  Comments:
+    - [09:33 AM] Aftershocks are still happening, be careful!
+    - [09:38 AM] My family and I just evacuated from this street.
+
+Report ID: R177 | User ID: U138 | Timestamp: 08:29 AM | Location: Union Square (37.7879, -122.4074) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [08:32 AM] We need volunteers at the shelters.
+    - [08:45 AM] Police have blocked off the area for safety.
+
+Report ID: R178 | User ID: U393 | Timestamp: 09:30 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+
+Report ID: R179 | User ID: U789 | Timestamp: 09:34 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [09:49 AM] This is getting worse, emergency teams need more support.
+    - [09:53 AM] There was another fire reported nearby.
+    - [09:36 AM] First responders are struggling to reach some areas.
+
+Report ID: R180 | User ID: U527 | Timestamp: 09:03 AM | Location: Presidio (37.7989, -122.4662) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [09:20 AM] People are handing out water and blankets here.
+    - [09:24 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R181 | User ID: U476 | Timestamp: 09:39 AM | Location: Chinatown (37.7941, -122.4078) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [09:41 AM] Can confirm, I lost power in the same location.
+
+Report ID: R182 | User ID: U417 | Timestamp: 08:19 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+
+Report ID: R183 | User ID: U689 | Timestamp: 09:28 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [09:45 AM] I just drove past this area, it's really bad.
+    - [09:36 AM] There was another fire reported nearby.
+
+Report ID: R184 | User ID: U821 | Timestamp: 09:08 AM | Location: Financial District (37.7946, -122.3999) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [09:28 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R185 | User ID: U152 | Timestamp: 10:15 AM | Location: Mission District (37.7599, -122.4148) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+
+Report ID: R186 | User ID: U141 | Timestamp: 09:39 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [09:47 AM] Can confirm, I lost power in the same location.
+    - [09:49 AM] The bridge is definitely cracked, saw it myself.
+    - [09:50 AM] First responders are struggling to reach some areas.
+
+Report ID: R187 | User ID: U134 | Timestamp: 10:10 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [10:15 AM] I saw this too! The shaking was intense.
+    - [10:39 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R188 | User ID: U132 | Timestamp: 08:44 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [09:10 AM] I just drove past this area, it's really bad.
+    - [09:14 AM] The bridge is definitely cracked, saw it myself.
+    - [08:56 AM] Can confirm, I lost power in the same location.
+
+Report ID: R189 | User ID: U323 | Timestamp: 09:02 AM | Location: Chinatown (37.7941, -122.4078) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [09:32 AM] I saw this too! The shaking was intense.
+
+Report ID: R190 | User ID: U190 | Timestamp: 10:02 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [10:19 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R191 | User ID: U472 | Timestamp: 09:16 AM | Location: Mission District (37.7599, -122.4148) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [09:32 AM] Can confirm, I lost power in the same location.
+    - [09:34 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R192 | User ID: U819 | Timestamp: 09:29 AM | Location: Financial District (37.7946, -122.3999) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+  Comments:
+    - [09:45 AM] Can confirm, I lost power in the same location.
+    - [09:36 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R193 | User ID: U135 | Timestamp: 10:03 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [10:21 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R194 | User ID: U189 | Timestamp: 09:37 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [09:47 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R195 | User ID: U407 | Timestamp: 08:52 AM | Location: Presidio (37.7989, -122.4662) | Description: Water pipes have burst across the city, flooding subway tunnels.
+  Comments:
+    - [09:18 AM] This is getting worse, emergency teams need more support.
+    - [09:03 AM] I heard sirens heading in that direction.
+    - [09:07 AM] First responders are struggling to reach some areas.
+
+Report ID: R196 | User ID: U877 | Timestamp: 10:01 AM | Location: Mission District (37.7599, -122.4148) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [10:29 AM] There was another fire reported nearby.
+
+Report ID: R197 | User ID: U459 | Timestamp: 09:29 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [09:40 AM] The bridge is definitely cracked, saw it myself.
+    - [09:36 AM] A gas leak was just reported close to here.
+
+Report ID: R198 | User ID: U452 | Timestamp: 08:44 AM | Location: Mission District (37.7599, -122.4148) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [08:54 AM] The bridge is definitely cracked, saw it myself.
+    - [09:08 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:05 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R199 | User ID: U659 | Timestamp: 09:58 AM | Location: Mission District (37.7599, -122.4148) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [10:16 AM] The bridge is definitely cracked, saw it myself.
+    - [10:04 AM] I just drove past this area, it's really bad.
+    - [10:18 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R200 | User ID: U327 | Timestamp: 08:45 AM | Location: Financial District (37.7946, -122.3999) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [08:52 AM] There was another fire reported nearby.
+
+Report ID: R201 | User ID: U361 | Timestamp: 09:03 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [09:05 AM] Helicopters are circling the city, getting a better view.
+    - [09:04 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:07 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R202 | User ID: U127 | Timestamp: 09:07 AM | Location: Chinatown (37.7941, -122.4078) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [09:31 AM] My family and I just evacuated from this street.
+    - [09:08 AM] Police have blocked off the area for safety.
+
+Report ID: R203 | User ID: U134 | Timestamp: 10:04 AM | Location: Union Square (37.7879, -122.4074) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [10:16 AM] We need volunteers at the shelters.
+    - [10:11 AM] I saw this too! The shaking was intense.
+
+Report ID: R204 | User ID: U662 | Timestamp: 08:47 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+  Comments:
+    - [09:05 AM] I just drove past this area, it's really bad.
+    - [09:13 AM] Aftershocks are still happening, be careful!
+
+Report ID: R205 | User ID: U359 | Timestamp: 09:15 AM | Location: Financial District (37.7946, -122.3999) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:21 AM] Helicopters are circling the city, getting a better view.
+    - [09:35 AM] The bridge is definitely cracked, saw it myself.
+    - [09:18 AM] We need volunteers at the shelters.
+
+Report ID: R206 | User ID: U366 | Timestamp: 09:27 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [09:41 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:44 AM] Rescue crews are already here working on it.
+    - [09:41 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R207 | User ID: U545 | Timestamp: 09:30 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+  Comments:
+    - [10:00 AM] My family and I just evacuated from this street.
+    - [09:40 AM] We need volunteers at the shelters.
+
+Report ID: R208 | User ID: U328 | Timestamp: 10:05 AM | Location: Union Square (37.7879, -122.4074) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [10:20 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R209 | User ID: U972 | Timestamp: 09:52 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A cracked dam near the city is being monitored for potential failure.
+  Comments:
+    - [10:18 AM] My neighbor’s house collapsed on the same block!
+    - [10:09 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R210 | User ID: U137 | Timestamp: 09:23 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [09:50 AM] A gas leak was just reported close to here.
+    - [09:32 AM] I saw this too! The shaking was intense.
+
+Report ID: R211 | User ID: U525 | Timestamp: 09:37 AM | Location: Chinatown (37.7941, -122.4078) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [09:58 AM] I just drove past this area, it's really bad.
+    - [09:48 AM] There was another fire reported nearby.
+    - [10:03 AM] Gas stations are running out of fuel fast.
+
+Report ID: R212 | User ID: U410 | Timestamp: 08:20 AM | Location: Chinatown (37.7941, -122.4078) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [08:50 AM] Rescue crews are already here working on it.
+
+Report ID: R213 | User ID: U314 | Timestamp: 08:53 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [09:09 AM] This is getting worse, emergency teams need more support.
+    - [09:19 AM] I just drove past this area, it's really bad.
+    - [09:22 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R214 | User ID: U795 | Timestamp: 08:19 AM | Location: Presidio (37.7989, -122.4662) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [08:34 AM] My neighbor’s house collapsed on the same block!
+    - [08:37 AM] Aftershocks are still happening, be careful!
+    - [08:49 AM] Rescue crews are already here working on it.
+
+Report ID: R215 | User ID: U164 | Timestamp: 08:40 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Businesses are offering free food and shelter to those displaced.
+
+Report ID: R216 | User ID: U386 | Timestamp: 08:42 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+  Comments:
+    - [09:10 AM] We need volunteers at the shelters.
+    - [08:57 AM] First responders are struggling to reach some areas.
+
+Report ID: R217 | User ID: U121 | Timestamp: 09:52 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Drone footage is revealing entire blocks flattened by the quake.
+  Comments:
+    - [10:21 AM] This is getting worse, emergency teams need more support.
+    - [10:20 AM] My neighbor’s house collapsed on the same block!
+    - [10:17 AM] Police have blocked off the area for safety.
+
+Report ID: R218 | User ID: U998 | Timestamp: 08:44 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [08:46 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R219 | User ID: U869 | Timestamp: 08:27 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Social media is flooded with live updates from people trapped in buildings.
+
+Report ID: R220 | User ID: U374 | Timestamp: 09:12 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [09:42 AM] First responders are struggling to reach some areas.
+    - [09:23 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R221 | User ID: U958 | Timestamp: 10:10 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: The city’s main bridges are being inspected for damage before reopening.
+  Comments:
+    - [10:11 AM] I saw this too! The shaking was intense.
+
+Report ID: R222 | User ID: U644 | Timestamp: 09:46 AM | Location: Presidio (37.7989, -122.4662) | Description: A group of volunteers is helping clear rubble from the streets.
+  Comments:
+    - [09:57 AM] Can confirm, I lost power in the same location.
+    - [09:47 AM] Police have blocked off the area for safety.
+
+Report ID: R223 | User ID: U667 | Timestamp: 09:20 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [09:38 AM] Police have blocked off the area for safety.
+    - [09:40 AM] My neighbor’s house collapsed on the same block!
+    - [09:30 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R224 | User ID: U352 | Timestamp: 08:50 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+  Comments:
+    - [09:14 AM] I just drove past this area, it's really bad.
+    - [08:53 AM] A gas leak was just reported close to here.
+    - [09:15 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R225 | User ID: U208 | Timestamp: 08:43 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+
+Report ID: R226 | User ID: U772 | Timestamp: 08:30 AM | Location: Chinatown (37.7941, -122.4078) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [08:56 AM] There was another fire reported nearby.
+
+Report ID: R227 | User ID: U497 | Timestamp: 08:53 AM | Location: Mission District (37.7599, -122.4148) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [09:11 AM] The bridge is definitely cracked, saw it myself.
+    - [09:15 AM] I heard sirens heading in that direction.
+    - [09:03 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R228 | User ID: U715 | Timestamp: 09:34 AM | Location: Financial District (37.7946, -122.3999) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+
+Report ID: R229 | User ID: U365 | Timestamp: 09:13 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [09:33 AM] I saw this too! The shaking was intense.
+
+Report ID: R230 | User ID: U526 | Timestamp: 09:28 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+
+Report ID: R231 | User ID: U298 | Timestamp: 10:09 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [10:25 AM] I just drove past this area, it's really bad.
+
+Report ID: R232 | User ID: U290 | Timestamp: 10:15 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+  Comments:
+    - [10:18 AM] Gas stations are running out of fuel fast.
+    - [10:39 AM] I heard sirens heading in that direction.
+
+Report ID: R233 | User ID: U388 | Timestamp: 09:40 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [10:01 AM] My family and I just evacuated from this street.
+
+Report ID: R234 | User ID: U102 | Timestamp: 09:44 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+  Comments:
+    - [10:05 AM] The bridge is definitely cracked, saw it myself.
+    - [10:01 AM] We need volunteers at the shelters.
+
+Report ID: R235 | User ID: U214 | Timestamp: 09:07 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+
+Report ID: R236 | User ID: U576 | Timestamp: 10:13 AM | Location: Mission District (37.7599, -122.4148) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [10:33 AM] People are handing out water and blankets here.
+    - [10:24 AM] I heard sirens heading in that direction.
+    - [10:41 AM] Can confirm, I lost power in the same location.
+
+Report ID: R237 | User ID: U607 | Timestamp: 10:13 AM | Location: Union Square (37.7879, -122.4074) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [10:41 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:40 AM] We need volunteers at the shelters.
+
+Report ID: R238 | User ID: U480 | Timestamp: 09:55 AM | Location: Presidio (37.7989, -122.4662) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+
+Report ID: R239 | User ID: U349 | Timestamp: 08:22 AM | Location: Union Square (37.7879, -122.4074) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [08:32 AM] The bridge is definitely cracked, saw it myself.
+    - [08:32 AM] Police have blocked off the area for safety.
+    - [08:32 AM] Rescue crews are already here working on it.
+
+Report ID: R240 | User ID: U225 | Timestamp: 09:33 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [09:53 AM] Can confirm, I lost power in the same location.
+
+Report ID: R241 | User ID: U299 | Timestamp: 09:39 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+
+Report ID: R242 | User ID: U981 | Timestamp: 08:46 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [09:01 AM] Police have blocked off the area for safety.
+    - [09:16 AM] First responders are struggling to reach some areas.
+
+Report ID: R243 | User ID: U458 | Timestamp: 08:57 AM | Location: Chinatown (37.7941, -122.4078) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [09:14 AM] Can confirm, I lost power in the same location.
+    - [09:12 AM] We need volunteers at the shelters.
+    - [09:11 AM] People are handing out water and blankets here.
+
+Report ID: R244 | User ID: U956 | Timestamp: 08:55 AM | Location: Financial District (37.7946, -122.3999) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [09:23 AM] People are handing out water and blankets here.
+
+Report ID: R245 | User ID: U629 | Timestamp: 10:10 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [10:24 AM] Can confirm, I lost power in the same location.
+
+Report ID: R246 | User ID: U305 | Timestamp: 09:59 AM | Location: Presidio (37.7989, -122.4662) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [10:28 AM] I just drove past this area, it's really bad.
+    - [10:20 AM] My family and I just evacuated from this street.
+
+Report ID: R247 | User ID: U744 | Timestamp: 09:28 AM | Location: Presidio (37.7989, -122.4662) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [09:39 AM] Helicopters are circling the city, getting a better view.
+    - [09:30 AM] First responders are struggling to reach some areas.
+    - [09:53 AM] Rescue crews are already here working on it.
+
+Report ID: R248 | User ID: U302 | Timestamp: 09:04 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+  Comments:
+    - [09:07 AM] The damage is worse than expected. Stay safe!
+    - [09:07 AM] Gas stations are running out of fuel fast.
+    - [09:23 AM] A gas leak was just reported close to here.
+
+Report ID: R249 | User ID: U299 | Timestamp: 09:44 AM | Location: Financial District (37.7946, -122.3999) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [10:09 AM] Gas stations are running out of fuel fast.
+    - [10:01 AM] Can confirm, I lost power in the same location.
+    - [09:45 AM] Aftershocks are still happening, be careful!
+
+Report ID: R250 | User ID: U629 | Timestamp: 08:16 AM | Location: Financial District (37.7946, -122.3999) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [08:41 AM] Gas stations are running out of fuel fast.
+    - [08:32 AM] There was another fire reported nearby.
+    - [08:32 AM] People are handing out water and blankets here.
+
+Report ID: R251 | User ID: U565 | Timestamp: 08:34 AM | Location: Mission District (37.7599, -122.4148) | Description: Water pipes have burst across the city, flooding subway tunnels.
+
+Report ID: R252 | User ID: U604 | Timestamp: 09:59 AM | Location: Mission District (37.7599, -122.4148) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [10:05 AM] Can confirm, I lost power in the same location.
+    - [10:02 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R253 | User ID: U618 | Timestamp: 09:27 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [09:41 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R254 | User ID: U159 | Timestamp: 09:30 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+
+Report ID: R255 | User ID: U260 | Timestamp: 09:57 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [10:16 AM] Gas stations are running out of fuel fast.
+
+Report ID: R256 | User ID: U614 | Timestamp: 08:49 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+
+Report ID: R257 | User ID: U305 | Timestamp: 09:56 AM | Location: Chinatown (37.7941, -122.4078) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [10:04 AM] Can confirm, I lost power in the same location.
+    - [10:03 AM] Police have blocked off the area for safety.
+    - [10:09 AM] We need volunteers at the shelters.
+
+Report ID: R258 | User ID: U410 | Timestamp: 09:27 AM | Location: Mission District (37.7599, -122.4148) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [09:36 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R259 | User ID: U944 | Timestamp: 09:41 AM | Location: Chinatown (37.7941, -122.4078) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [10:00 AM] Police have blocked off the area for safety.
+    - [10:07 AM] Aftershocks are still happening, be careful!
+
+Report ID: R260 | User ID: U638 | Timestamp: 09:01 AM | Location: Union Square (37.7879, -122.4074) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+
+Report ID: R261 | User ID: U645 | Timestamp: 09:34 AM | Location: Mission District (37.7599, -122.4148) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:55 AM] This is getting worse, emergency teams need more support.
+    - [09:42 AM] Gas stations are running out of fuel fast.
+
+Report ID: R262 | User ID: U877 | Timestamp: 10:04 AM | Location: Financial District (37.7946, -122.3999) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [10:31 AM] This is getting worse, emergency teams need more support.
+    - [10:06 AM] I heard sirens heading in that direction.
+
+Report ID: R263 | User ID: U234 | Timestamp: 09:08 AM | Location: Union Square (37.7879, -122.4074) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+  Comments:
+    - [09:21 AM] First responders are struggling to reach some areas.
+    - [09:12 AM] People are handing out water and blankets here.
+    - [09:33 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R264 | User ID: U602 | Timestamp: 08:43 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [08:55 AM] We need volunteers at the shelters.
+    - [08:48 AM] There was another fire reported nearby.
+
+Report ID: R265 | User ID: U465 | Timestamp: 10:01 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A cracked dam near the city is being monitored for potential failure.
+  Comments:
+    - [10:23 AM] My family and I just evacuated from this street.
+    - [10:17 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R266 | User ID: U602 | Timestamp: 08:46 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [08:56 AM] First responders are struggling to reach some areas.
+    - [09:00 AM] The bridge is definitely cracked, saw it myself.
+    - [08:59 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R267 | User ID: U583 | Timestamp: 08:48 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [09:08 AM] I saw this too! The shaking was intense.
+    - [09:07 AM] I just drove past this area, it's really bad.
+    - [09:06 AM] There was another fire reported nearby.
+
+Report ID: R268 | User ID: U772 | Timestamp: 08:53 AM | Location: Financial District (37.7946, -122.3999) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [09:09 AM] Rescue crews are already here working on it.
+    - [09:01 AM] A gas leak was just reported close to here.
+    - [08:59 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R269 | User ID: U960 | Timestamp: 09:43 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [10:01 AM] I heard sirens heading in that direction.
+
+Report ID: R270 | User ID: U276 | Timestamp: 08:26 AM | Location: Financial District (37.7946, -122.3999) | Description: First responders are prioritizing those trapped under debris before nightfall.
+
+Report ID: R271 | User ID: U269 | Timestamp: 09:10 AM | Location: Union Square (37.7879, -122.4074) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [09:25 AM] A gas leak was just reported close to here.
+    - [09:31 AM] People are handing out water and blankets here.
+    - [09:28 AM] I heard sirens heading in that direction.
+
+Report ID: R272 | User ID: U696 | Timestamp: 09:28 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+
+Report ID: R273 | User ID: U152 | Timestamp: 09:04 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Drone footage is revealing entire blocks flattened by the quake.
+  Comments:
+    - [09:05 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R274 | User ID: U894 | Timestamp: 08:23 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [08:29 AM] My family and I just evacuated from this street.
+    - [08:43 AM] My neighbor’s house collapsed on the same block!
+    - [08:46 AM] Rescue crews are already here working on it.
+
+Report ID: R275 | User ID: U615 | Timestamp: 10:12 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Social media is flooded with live updates from people trapped in buildings.
+
+Report ID: R276 | User ID: U238 | Timestamp: 08:30 AM | Location: Chinatown (37.7941, -122.4078) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [08:58 AM] Rescue crews are already here working on it.
+    - [08:42 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R277 | User ID: U856 | Timestamp: 09:52 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The city’s main bridges are being inspected for damage before reopening.
+
+Report ID: R278 | User ID: U645 | Timestamp: 09:28 AM | Location: Chinatown (37.7941, -122.4078) | Description: A group of volunteers is helping clear rubble from the streets.
+
+Report ID: R279 | User ID: U218 | Timestamp: 08:17 AM | Location: Financial District (37.7946, -122.3999) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [08:45 AM] Rescue crews are already here working on it.
+
+Report ID: R280 | User ID: U750 | Timestamp: 09:16 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+  Comments:
+    - [09:36 AM] A gas leak was just reported close to here.
+
+Report ID: R281 | User ID: U453 | Timestamp: 09:43 AM | Location: Chinatown (37.7941, -122.4078) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [09:45 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R282 | User ID: U530 | Timestamp: 08:24 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [08:49 AM] Helicopters are circling the city, getting a better view.
+    - [08:25 AM] There was another fire reported nearby.
+    - [08:36 AM] First responders are struggling to reach some areas.
+
+Report ID: R283 | User ID: U273 | Timestamp: 10:09 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+
+Report ID: R284 | User ID: U237 | Timestamp: 09:58 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [10:09 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:23 AM] I just drove past this area, it's really bad.
+
+Report ID: R285 | User ID: U802 | Timestamp: 09:19 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [09:31 AM] We need volunteers at the shelters.
+    - [09:25 AM] First responders are struggling to reach some areas.
+    - [09:35 AM] There was another fire reported nearby.
+
+Report ID: R286 | User ID: U346 | Timestamp: 09:37 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+
+Report ID: R287 | User ID: U150 | Timestamp: 10:02 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [10:23 AM] I just drove past this area, it's really bad.
+    - [10:20 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R288 | User ID: U942 | Timestamp: 08:47 AM | Location: Presidio (37.7989, -122.4662) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+
+Report ID: R289 | User ID: U183 | Timestamp: 09:28 AM | Location: Mission District (37.7599, -122.4148) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [09:56 AM] First responders are struggling to reach some areas.
+
+Report ID: R290 | User ID: U504 | Timestamp: 10:06 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+
+Report ID: R291 | User ID: U958 | Timestamp: 10:03 AM | Location: Chinatown (37.7941, -122.4078) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [10:28 AM] I saw this too! The shaking was intense.
+    - [10:31 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R292 | User ID: U479 | Timestamp: 09:46 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [10:09 AM] This is getting worse, emergency teams need more support.
+    - [09:56 AM] I heard sirens heading in that direction.
+    - [10:05 AM] I saw this too! The shaking was intense.
+
+Report ID: R293 | User ID: U711 | Timestamp: 08:55 AM | Location: Financial District (37.7946, -122.3999) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+
+Report ID: R294 | User ID: U488 | Timestamp: 09:05 AM | Location: Financial District (37.7946, -122.3999) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+  Comments:
+    - [09:11 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R295 | User ID: U957 | Timestamp: 09:14 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+
+Report ID: R296 | User ID: U803 | Timestamp: 09:08 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [09:31 AM] Gas stations are running out of fuel fast.
+    - [09:30 AM] There was another fire reported nearby.
+
+Report ID: R297 | User ID: U628 | Timestamp: 09:18 AM | Location: Union Square (37.7879, -122.4074) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+  Comments:
+    - [09:20 AM] I saw this too! The shaking was intense.
+    - [09:42 AM] Rescue crews are already here working on it.
+    - [09:28 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R298 | User ID: U754 | Timestamp: 08:48 AM | Location: Chinatown (37.7941, -122.4078) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [08:57 AM] Aftershocks are still happening, be careful!
+    - [08:54 AM] The bridge is definitely cracked, saw it myself.
+    - [08:55 AM] There was another fire reported nearby.
+
+Report ID: R299 | User ID: U534 | Timestamp: 08:45 AM | Location: Union Square (37.7879, -122.4074) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [09:04 AM] Gas stations are running out of fuel fast.
+    - [09:10 AM] I heard sirens heading in that direction.
+
+Report ID: R300 | User ID: U134 | Timestamp: 08:17 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [08:29 AM] People are handing out water and blankets here.
+
+Report ID: R301 | User ID: U593 | Timestamp: 09:07 AM | Location: Chinatown (37.7941, -122.4078) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [09:35 AM] We need volunteers at the shelters.
+    - [09:30 AM] I saw this too! The shaking was intense.
+    - [09:15 AM] First responders are struggling to reach some areas.
+
+Report ID: R302 | User ID: U700 | Timestamp: 09:17 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [09:44 AM] We need volunteers at the shelters.
+    - [09:37 AM] Police have blocked off the area for safety.
+
+Report ID: R303 | User ID: U249 | Timestamp: 09:11 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+
+Report ID: R304 | User ID: U875 | Timestamp: 08:32 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+  Comments:
+    - [08:40 AM] The bridge is definitely cracked, saw it myself.
+    - [08:40 AM] Can confirm, I lost power in the same location.
+    - [08:47 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R305 | User ID: U197 | Timestamp: 09:52 AM | Location: Mission District (37.7599, -122.4148) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [10:12 AM] There was another fire reported nearby.
+    - [09:57 AM] A gas leak was just reported close to here.
+    - [10:09 AM] Police have blocked off the area for safety.
+
+Report ID: R306 | User ID: U741 | Timestamp: 09:22 AM | Location: Chinatown (37.7941, -122.4078) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [09:38 AM] People are handing out water and blankets here.
+
+Report ID: R307 | User ID: U779 | Timestamp: 09:22 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Water pipes have burst across the city, flooding subway tunnels.
+  Comments:
+    - [09:40 AM] People are handing out water and blankets here.
+    - [09:24 AM] I saw this too! The shaking was intense.
+    - [09:46 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R308 | User ID: U131 | Timestamp: 08:24 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [08:40 AM] My family and I just evacuated from this street.
+    - [08:42 AM] We need volunteers at the shelters.
+    - [08:50 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R309 | User ID: U556 | Timestamp: 10:01 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [10:02 AM] A gas leak was just reported close to here.
+    - [10:10 AM] I saw this too! The shaking was intense.
+    - [10:17 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R310 | User ID: U130 | Timestamp: 08:34 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [08:58 AM] Aftershocks are still happening, be careful!
+
+Report ID: R311 | User ID: U466 | Timestamp: 10:09 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [10:37 AM] Gas stations are running out of fuel fast.
+    - [10:16 AM] I just drove past this area, it's really bad.
+
+Report ID: R312 | User ID: U920 | Timestamp: 08:53 AM | Location: Presidio (37.7989, -122.4662) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [09:10 AM] Police have blocked off the area for safety.
+    - [09:09 AM] My family and I just evacuated from this street.
+    - [09:09 AM] Can confirm, I lost power in the same location.
+
+Report ID: R313 | User ID: U586 | Timestamp: 09:34 AM | Location: Presidio (37.7989, -122.4662) | Description: Parents are desperately searching for their children after schools were evacuated.
+
+Report ID: R314 | User ID: U653 | Timestamp: 08:32 AM | Location: Union Square (37.7879, -122.4074) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [08:44 AM] A gas leak was just reported close to here.
+    - [08:53 AM] There was another fire reported nearby.
+
+Report ID: R315 | User ID: U323 | Timestamp: 10:07 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [10:13 AM] Gas stations are running out of fuel fast.
+
+Report ID: R316 | User ID: U761 | Timestamp: 09:49 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+  Comments:
+    - [10:15 AM] I just drove past this area, it's really bad.
+    - [10:05 AM] There was another fire reported nearby.
+
+Report ID: R317 | User ID: U862 | Timestamp: 08:50 AM | Location: Chinatown (37.7941, -122.4078) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:04 AM] A gas leak was just reported close to here.
+    - [09:09 AM] We need volunteers at the shelters.
+
+Report ID: R318 | User ID: U779 | Timestamp: 08:48 AM | Location: Mission District (37.7599, -122.4148) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [08:59 AM] A gas leak was just reported close to here.
+
+Report ID: R319 | User ID: U800 | Timestamp: 09:31 AM | Location: Financial District (37.7946, -122.3999) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+
+Report ID: R320 | User ID: U973 | Timestamp: 10:13 AM | Location: Mission District (37.7599, -122.4148) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [10:31 AM] I just drove past this area, it's really bad.
+    - [10:32 AM] We need volunteers at the shelters.
+
+Report ID: R321 | User ID: U261 | Timestamp: 09:47 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A cracked dam near the city is being monitored for potential failure.
+
+Report ID: R322 | User ID: U440 | Timestamp: 08:28 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [08:35 AM] Gas stations are running out of fuel fast.
+    - [08:49 AM] The bridge is definitely cracked, saw it myself.
+    - [08:51 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R323 | User ID: U324 | Timestamp: 09:28 AM | Location: Chinatown (37.7941, -122.4078) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [09:32 AM] We need volunteers at the shelters.
+    - [09:47 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R324 | User ID: U739 | Timestamp: 10:14 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [10:38 AM] I saw this too! The shaking was intense.
+
+Report ID: R325 | User ID: U866 | Timestamp: 08:32 AM | Location: Embarcadero (37.7955, -122.3937) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [08:35 AM] The bridge is definitely cracked, saw it myself.
+    - [08:35 AM] First responders are struggling to reach some areas.
+
+Report ID: R326 | User ID: U175 | Timestamp: 09:38 AM | Location: Financial District (37.7946, -122.3999) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [09:51 AM] My family and I just evacuated from this street.
+    - [10:00 AM] Police have blocked off the area for safety.
+    - [09:52 AM] Aftershocks are still happening, be careful!
+
+Report ID: R327 | User ID: U555 | Timestamp: 10:07 AM | Location: Chinatown (37.7941, -122.4078) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [10:33 AM] I heard sirens heading in that direction.
+    - [10:10 AM] Can confirm, I lost power in the same location.
+    - [10:15 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R328 | User ID: U464 | Timestamp: 08:17 AM | Location: Union Square (37.7879, -122.4074) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+  Comments:
+    - [08:45 AM] Gas stations are running out of fuel fast.
+    - [08:24 AM] I saw this too! The shaking was intense.
+    - [08:30 AM] First responders are struggling to reach some areas.
+
+Report ID: R329 | User ID: U453 | Timestamp: 09:22 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Drone footage is revealing entire blocks flattened by the quake.
+  Comments:
+    - [09:46 AM] I just drove past this area, it's really bad.
+
+Report ID: R330 | User ID: U677 | Timestamp: 10:04 AM | Location: Chinatown (37.7941, -122.4078) | Description: Families are reuniting in designated emergency meeting areas.
+
+Report ID: R331 | User ID: U145 | Timestamp: 09:36 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [09:58 AM] First responders are struggling to reach some areas.
+    - [10:04 AM] Rescue crews are already here working on it.
+
+Report ID: R332 | User ID: U463 | Timestamp: 08:53 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [09:00 AM] The bridge is definitely cracked, saw it myself.
+    - [08:55 AM] First responders are struggling to reach some areas.
+
+Report ID: R333 | User ID: U505 | Timestamp: 08:37 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: The city’s main bridges are being inspected for damage before reopening.
+
+Report ID: R334 | User ID: U659 | Timestamp: 08:36 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A group of volunteers is helping clear rubble from the streets.
+  Comments:
+    - [08:47 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R335 | User ID: U929 | Timestamp: 09:59 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [10:03 AM] The damage is worse than expected. Stay safe!
+    - [10:22 AM] A gas leak was just reported close to here.
+
+Report ID: R336 | User ID: U772 | Timestamp: 09:17 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+  Comments:
+    - [09:31 AM] This is getting worse, emergency teams need more support.
+    - [09:46 AM] Rescue crews are already here working on it.
+    - [09:33 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R337 | User ID: U455 | Timestamp: 09:56 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [10:07 AM] People are handing out water and blankets here.
+    - [10:25 AM] Gas stations are running out of fuel fast.
+    - [10:04 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R338 | User ID: U140 | Timestamp: 08:37 AM | Location: Financial District (37.7946, -122.3999) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [08:38 AM] A gas leak was just reported close to here.
+    - [08:57 AM] My family and I just evacuated from this street.
+    - [08:46 AM] There was another fire reported nearby.
+
+Report ID: R339 | User ID: U389 | Timestamp: 08:32 AM | Location: Financial District (37.7946, -122.3999) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+
+Report ID: R340 | User ID: U833 | Timestamp: 09:51 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+
+Report ID: R341 | User ID: U943 | Timestamp: 09:56 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+
+Report ID: R342 | User ID: U524 | Timestamp: 08:39 AM | Location: Presidio (37.7989, -122.4662) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:05 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R343 | User ID: U813 | Timestamp: 09:48 AM | Location: Union Square (37.7879, -122.4074) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [10:10 AM] People are handing out water and blankets here.
+    - [09:50 AM] My family and I just evacuated from this street.
+
+Report ID: R344 | User ID: U697 | Timestamp: 08:26 AM | Location: Presidio (37.7989, -122.4662) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+  Comments:
+    - [08:39 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R345 | User ID: U545 | Timestamp: 08:46 AM | Location: Presidio (37.7989, -122.4662) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [08:56 AM] We need volunteers at the shelters.
+    - [08:52 AM] I just drove past this area, it's really bad.
+
+Report ID: R346 | User ID: U351 | Timestamp: 09:06 AM | Location: Mission District (37.7599, -122.4148) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+  Comments:
+    - [09:27 AM] I heard sirens heading in that direction.
+    - [09:35 AM] Rescue crews are already here working on it.
+    - [09:33 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R347 | User ID: U676 | Timestamp: 08:37 AM | Location: Presidio (37.7989, -122.4662) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [08:58 AM] Aftershocks are still happening, be careful!
+    - [08:48 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R348 | User ID: U757 | Timestamp: 10:08 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [10:13 AM] Police have blocked off the area for safety.
+    - [10:28 AM] Aftershocks are still happening, be careful!
+
+Report ID: R349 | User ID: U851 | Timestamp: 10:14 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [10:20 AM] Can confirm, I lost power in the same location.
+    - [10:18 AM] I heard sirens heading in that direction.
+    - [10:31 AM] People are handing out water and blankets here.
+
+Report ID: R350 | User ID: U859 | Timestamp: 09:44 AM | Location: Presidio (37.7989, -122.4662) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+  Comments:
+    - [09:45 AM] Police have blocked off the area for safety.
+    - [09:51 AM] I heard sirens heading in that direction.
+
+Report ID: R351 | User ID: U272 | Timestamp: 08:40 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [09:03 AM] There was another fire reported nearby.
+    - [09:05 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R352 | User ID: U334 | Timestamp: 09:40 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [10:03 AM] There was another fire reported nearby.
+    - [09:42 AM] People are handing out water and blankets here.
+    - [10:04 AM] There was another fire reported nearby.
+
+Report ID: R353 | User ID: U230 | Timestamp: 09:29 AM | Location: Chinatown (37.7941, -122.4078) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+  Comments:
+    - [09:40 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R354 | User ID: U779 | Timestamp: 09:11 AM | Location: Union Square (37.7879, -122.4074) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [09:19 AM] Gas stations are running out of fuel fast.
+    - [09:32 AM] I heard sirens heading in that direction.
+
+Report ID: R355 | User ID: U699 | Timestamp: 09:42 AM | Location: Presidio (37.7989, -122.4662) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [09:55 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:59 AM] I just drove past this area, it's really bad.
+    - [10:12 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R356 | User ID: U982 | Timestamp: 10:15 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [10:33 AM] A gas leak was just reported close to here.
+    - [10:44 AM] Can confirm, I lost power in the same location.
+    - [10:43 AM] Police have blocked off the area for safety.
+
+Report ID: R357 | User ID: U383 | Timestamp: 09:55 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [10:21 AM] I just drove past this area, it's really bad.
+
+Report ID: R358 | User ID: U878 | Timestamp: 09:43 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [10:01 AM] First responders are struggling to reach some areas.
+
+Report ID: R359 | User ID: U496 | Timestamp: 09:09 AM | Location: Embarcadero (37.7955, -122.3937) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [09:11 AM] There was another fire reported nearby.
+
+Report ID: R360 | User ID: U297 | Timestamp: 08:59 AM | Location: Financial District (37.7946, -122.3999) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+
+Report ID: R361 | User ID: U189 | Timestamp: 09:03 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [09:24 AM] I just drove past this area, it's really bad.
+    - [09:14 AM] We need volunteers at the shelters.
+
+Report ID: R362 | User ID: U885 | Timestamp: 09:58 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [10:19 AM] My family and I just evacuated from this street.
+
+Report ID: R363 | User ID: U729 | Timestamp: 08:44 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Water pipes have burst across the city, flooding subway tunnels.
+  Comments:
+    - [08:59 AM] The damage is worse than expected. Stay safe!
+    - [08:47 AM] My neighbor’s house collapsed on the same block!
+    - [09:03 AM] Rescue crews are already here working on it.
+
+Report ID: R364 | User ID: U892 | Timestamp: 09:17 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [09:41 AM] A gas leak was just reported close to here.
+    - [09:38 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R365 | User ID: U949 | Timestamp: 09:02 AM | Location: Chinatown (37.7941, -122.4078) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [09:05 AM] Helicopters are circling the city, getting a better view.
+    - [09:21 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:17 AM] Aftershocks are still happening, be careful!
+
+Report ID: R366 | User ID: U248 | Timestamp: 08:59 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [09:22 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:09 AM] I saw this too! The shaking was intense.
+    - [09:29 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R367 | User ID: U156 | Timestamp: 08:32 AM | Location: Financial District (37.7946, -122.3999) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [08:39 AM] A gas leak was just reported close to here.
+
+Report ID: R368 | User ID: U821 | Timestamp: 10:15 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+
+Report ID: R369 | User ID: U451 | Timestamp: 08:17 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [08:45 AM] Can confirm, I lost power in the same location.
+    - [08:34 AM] My family and I just evacuated from this street.
+    - [08:39 AM] A gas leak was just reported close to here.
+
+Report ID: R370 | User ID: U252 | Timestamp: 09:02 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [09:09 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R371 | User ID: U811 | Timestamp: 09:45 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Military helicopters are circling the city, assisting in rescue operations.
+
+Report ID: R372 | User ID: U588 | Timestamp: 08:43 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+
+Report ID: R373 | User ID: U462 | Timestamp: 09:21 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:46 AM] I saw this too! The shaking was intense.
+    - [09:27 AM] Can confirm, I lost power in the same location.
+
+Report ID: R374 | User ID: U542 | Timestamp: 09:59 AM | Location: Union Square (37.7879, -122.4074) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+
+Report ID: R375 | User ID: U629 | Timestamp: 08:45 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+
+Report ID: R376 | User ID: U180 | Timestamp: 08:18 AM | Location: Financial District (37.7946, -122.3999) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [08:41 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R377 | User ID: U780 | Timestamp: 08:25 AM | Location: Chinatown (37.7941, -122.4078) | Description: A cracked dam near the city is being monitored for potential failure.
+  Comments:
+    - [08:48 AM] Aftershocks are still happening, be careful!
+
+Report ID: R378 | User ID: U934 | Timestamp: 09:46 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [09:52 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R379 | User ID: U451 | Timestamp: 08:46 AM | Location: Union Square (37.7879, -122.4074) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [08:55 AM] Police have blocked off the area for safety.
+
+Report ID: R380 | User ID: U845 | Timestamp: 09:36 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+
+Report ID: R381 | User ID: U952 | Timestamp: 08:47 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [09:07 AM] Police have blocked off the area for safety.
+
+Report ID: R382 | User ID: U192 | Timestamp: 08:51 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [09:04 AM] My family and I just evacuated from this street.
+    - [09:19 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R383 | User ID: U704 | Timestamp: 10:05 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [10:13 AM] My family and I just evacuated from this street.
+
+Report ID: R384 | User ID: U368 | Timestamp: 09:54 AM | Location: Financial District (37.7946, -122.3999) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+  Comments:
+    - [10:21 AM] I just drove past this area, it's really bad.
+    - [10:04 AM] This is getting worse, emergency teams need more support.
+    - [09:58 AM] There was another fire reported nearby.
+
+Report ID: R385 | User ID: U368 | Timestamp: 08:37 AM | Location: Presidio (37.7989, -122.4662) | Description: Drone footage is revealing entire blocks flattened by the quake.
+  Comments:
+    - [08:43 AM] My neighbor’s house collapsed on the same block!
+    - [09:06 AM] I just drove past this area, it's really bad.
+    - [08:54 AM] Police have blocked off the area for safety.
+
+Report ID: R386 | User ID: U254 | Timestamp: 10:07 AM | Location: Union Square (37.7879, -122.4074) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [10:12 AM] My family and I just evacuated from this street.
+
+Report ID: R387 | User ID: U973 | Timestamp: 09:32 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [09:42 AM] First responders are struggling to reach some areas.
+    - [09:51 AM] Aftershocks are still happening, be careful!
+
+Report ID: R388 | User ID: U900 | Timestamp: 08:49 AM | Location: Financial District (37.7946, -122.3999) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [08:55 AM] The bridge is definitely cracked, saw it myself.
+    - [09:16 AM] Gas stations are running out of fuel fast.
+
+Report ID: R389 | User ID: U703 | Timestamp: 10:12 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: The city’s main bridges are being inspected for damage before reopening.
+  Comments:
+    - [10:14 AM] A gas leak was just reported close to here.
+
+Report ID: R390 | User ID: U527 | Timestamp: 09:25 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A group of volunteers is helping clear rubble from the streets.
+
+Report ID: R391 | User ID: U750 | Timestamp: 09:16 AM | Location: Presidio (37.7989, -122.4662) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [09:20 AM] Helicopters are circling the city, getting a better view.
+    - [09:18 AM] Gas stations are running out of fuel fast.
+
+Report ID: R392 | User ID: U150 | Timestamp: 09:51 AM | Location: Union Square (37.7879, -122.4074) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+  Comments:
+    - [10:19 AM] The damage is worse than expected. Stay safe!
+    - [10:09 AM] My family and I just evacuated from this street.
+    - [10:07 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R393 | User ID: U739 | Timestamp: 08:31 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [08:37 AM] My family and I just evacuated from this street.
+    - [08:58 AM] Traffic is a nightmare, avoid this route if you can.
+    - [08:47 AM] I just drove past this area, it's really bad.
+
+Report ID: R394 | User ID: U333 | Timestamp: 09:32 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [09:38 AM] People are handing out water and blankets here.
+    - [09:59 AM] We need volunteers at the shelters.
+
+Report ID: R395 | User ID: U435 | Timestamp: 09:05 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [09:27 AM] I saw this too! The shaking was intense.
+    - [09:06 AM] My family and I just evacuated from this street.
+
+Report ID: R396 | User ID: U487 | Timestamp: 10:15 AM | Location: Financial District (37.7946, -122.3999) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [10:39 AM] Rescue crews are already here working on it.
+    - [10:39 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:21 AM] Aftershocks are still happening, be careful!
+
+Report ID: R397 | User ID: U738 | Timestamp: 09:58 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [10:17 AM] I heard sirens heading in that direction.
+    - [10:24 AM] I saw this too! The shaking was intense.
+
+Report ID: R398 | User ID: U684 | Timestamp: 08:37 AM | Location: Financial District (37.7946, -122.3999) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:07 AM] A gas leak was just reported close to here.
+
+Report ID: R399 | User ID: U736 | Timestamp: 09:48 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [10:02 AM] The bridge is definitely cracked, saw it myself.
+    - [10:04 AM] A gas leak was just reported close to here.
+
+Report ID: R400 | User ID: U821 | Timestamp: 09:24 AM | Location: Chinatown (37.7941, -122.4078) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+
+Report ID: R401 | User ID: U789 | Timestamp: 10:01 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+
+Report ID: R402 | User ID: U164 | Timestamp: 09:18 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+  Comments:
+    - [09:32 AM] I heard sirens heading in that direction.
+
+Report ID: R403 | User ID: U755 | Timestamp: 09:27 AM | Location: Union Square (37.7879, -122.4074) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [09:43 AM] First responders are struggling to reach some areas.
+    - [09:54 AM] My neighbor’s house collapsed on the same block!
+    - [09:47 AM] A gas leak was just reported close to here.
+
+Report ID: R404 | User ID: U856 | Timestamp: 08:33 AM | Location: Union Square (37.7879, -122.4074) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [08:36 AM] Aftershocks are still happening, be careful!
+
+Report ID: R405 | User ID: U627 | Timestamp: 08:51 AM | Location: Presidio (37.7989, -122.4662) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [08:54 AM] Rescue crews are already here working on it.
+    - [08:52 AM] There was another fire reported nearby.
+    - [09:04 AM] Police have blocked off the area for safety.
+
+Report ID: R406 | User ID: U567 | Timestamp: 09:42 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+  Comments:
+    - [10:04 AM] Aftershocks are still happening, be careful!
+
+Report ID: R407 | User ID: U403 | Timestamp: 09:26 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [09:52 AM] First responders are struggling to reach some areas.
+
+Report ID: R408 | User ID: U746 | Timestamp: 08:38 AM | Location: Union Square (37.7879, -122.4074) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [09:00 AM] A gas leak was just reported close to here.
+
+Report ID: R409 | User ID: U777 | Timestamp: 09:51 AM | Location: Presidio (37.7989, -122.4662) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+  Comments:
+    - [10:00 AM] This is getting worse, emergency teams need more support.
+    - [10:09 AM] I just drove past this area, it's really bad.
+    - [09:56 AM] My family and I just evacuated from this street.
+
+Report ID: R410 | User ID: U901 | Timestamp: 09:59 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [10:25 AM] Gas stations are running out of fuel fast.
+    - [10:08 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R411 | User ID: U732 | Timestamp: 10:07 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [10:33 AM] A gas leak was just reported close to here.
+    - [10:28 AM] The damage is worse than expected. Stay safe!
+    - [10:09 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R412 | User ID: U797 | Timestamp: 08:48 AM | Location: Financial District (37.7946, -122.3999) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+  Comments:
+    - [09:08 AM] First responders are struggling to reach some areas.
+
+Report ID: R413 | User ID: U596 | Timestamp: 09:55 AM | Location: Presidio (37.7989, -122.4662) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [10:13 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R414 | User ID: U901 | Timestamp: 09:11 AM | Location: Mission District (37.7599, -122.4148) | Description: A massive fire has engulfed a residential block near North Beach.
+
+Report ID: R415 | User ID: U541 | Timestamp: 08:25 AM | Location: Financial District (37.7946, -122.3999) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+
+Report ID: R416 | User ID: U483 | Timestamp: 08:34 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+
+Report ID: R417 | User ID: U346 | Timestamp: 09:54 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [10:08 AM] I saw this too! The shaking was intense.
+    - [10:18 AM] A gas leak was just reported close to here.
+
+Report ID: R418 | User ID: U200 | Timestamp: 09:10 AM | Location: Union Square (37.7879, -122.4074) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+  Comments:
+    - [09:26 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R419 | User ID: U892 | Timestamp: 10:01 AM | Location: Chinatown (37.7941, -122.4078) | Description: Water pipes have burst across the city, flooding subway tunnels.
+
+Report ID: R420 | User ID: U927 | Timestamp: 09:10 AM | Location: Union Square (37.7879, -122.4074) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+
+Report ID: R421 | User ID: U408 | Timestamp: 09:04 AM | Location: Union Square (37.7879, -122.4074) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [09:16 AM] People are handing out water and blankets here.
+    - [09:33 AM] Rescue crews are already here working on it.
+    - [09:06 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R422 | User ID: U830 | Timestamp: 09:18 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [09:40 AM] Rescue crews are already here working on it.
+    - [09:24 AM] This is getting worse, emergency teams need more support.
+    - [09:30 AM] People are handing out water and blankets here.
+
+Report ID: R423 | User ID: U617 | Timestamp: 08:21 AM | Location: Presidio (37.7989, -122.4662) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+  Comments:
+    - [08:32 AM] We need volunteers at the shelters.
+
+Report ID: R424 | User ID: U159 | Timestamp: 09:57 AM | Location: Presidio (37.7989, -122.4662) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [10:11 AM] People are handing out water and blankets here.
+    - [10:12 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:18 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R425 | User ID: U122 | Timestamp: 08:51 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Parents are desperately searching for their children after schools were evacuated.
+
+Report ID: R426 | User ID: U137 | Timestamp: 10:00 AM | Location: Union Square (37.7879, -122.4074) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [10:30 AM] Can confirm, I lost power in the same location.
+    - [10:25 AM] Gas stations are running out of fuel fast.
+
+Report ID: R427 | User ID: U237 | Timestamp: 08:21 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [08:35 AM] Aftershocks are still happening, be careful!
+    - [08:22 AM] My neighbor’s house collapsed on the same block!
+    - [08:49 AM] Gas stations are running out of fuel fast.
+
+Report ID: R428 | User ID: U902 | Timestamp: 09:16 AM | Location: Presidio (37.7989, -122.4662) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+
+Report ID: R429 | User ID: U400 | Timestamp: 09:24 AM | Location: Mission District (37.7599, -122.4148) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [09:47 AM] First responders are struggling to reach some areas.
+
+Report ID: R430 | User ID: U841 | Timestamp: 09:18 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [09:36 AM] Gas stations are running out of fuel fast.
+    - [09:37 AM] Can confirm, I lost power in the same location.
+
+Report ID: R431 | User ID: U437 | Timestamp: 10:07 AM | Location: Presidio (37.7989, -122.4662) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+
+Report ID: R432 | User ID: U235 | Timestamp: 09:10 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: News helicopters are broadcasting the devastation across the country.
+  Comments:
+    - [09:27 AM] Aftershocks are still happening, be careful!
+
+Report ID: R433 | User ID: U869 | Timestamp: 09:35 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: A cracked dam near the city is being monitored for potential failure.
+  Comments:
+    - [09:46 AM] First responders are struggling to reach some areas.
+    - [09:52 AM] There was another fire reported nearby.
+
+Report ID: R434 | User ID: U712 | Timestamp: 08:34 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+
+Report ID: R435 | User ID: U532 | Timestamp: 09:16 AM | Location: Financial District (37.7946, -122.3999) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [09:29 AM] I just drove past this area, it's really bad.
+
+Report ID: R436 | User ID: U373 | Timestamp: 09:16 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [09:42 AM] Aftershocks are still happening, be careful!
+    - [09:46 AM] This is getting worse, emergency teams need more support.
+    - [09:36 AM] We need volunteers at the shelters.
+
+Report ID: R437 | User ID: U867 | Timestamp: 08:54 AM | Location: Presidio (37.7989, -122.4662) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+
+Report ID: R438 | User ID: U155 | Timestamp: 08:23 AM | Location: Presidio (37.7989, -122.4662) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [08:35 AM] A gas leak was just reported close to here.
+
+Report ID: R439 | User ID: U795 | Timestamp: 09:00 AM | Location: Presidio (37.7989, -122.4662) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [09:25 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R440 | User ID: U256 | Timestamp: 08:19 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+
+Report ID: R441 | User ID: U418 | Timestamp: 09:43 AM | Location: Mission District (37.7599, -122.4148) | Description: Drone footage is revealing entire blocks flattened by the quake.
+  Comments:
+    - [09:47 AM] I just drove past this area, it's really bad.
+    - [10:10 AM] Helicopters are circling the city, getting a better view.
+    - [09:59 AM] Gas stations are running out of fuel fast.
+
+Report ID: R442 | User ID: U413 | Timestamp: 09:22 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Families are reuniting in designated emergency meeting areas.
+  Comments:
+    - [09:28 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:41 AM] Police have blocked off the area for safety.
+
+Report ID: R443 | User ID: U847 | Timestamp: 08:19 AM | Location: Mission District (37.7599, -122.4148) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [08:20 AM] Gas stations are running out of fuel fast.
+
+Report ID: R444 | User ID: U628 | Timestamp: 08:38 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [08:48 AM] I heard sirens heading in that direction.
+
+Report ID: R445 | User ID: U207 | Timestamp: 09:15 AM | Location: Union Square (37.7879, -122.4074) | Description: The city’s main bridges are being inspected for damage before reopening.
+  Comments:
+    - [09:29 AM] Can confirm, I lost power in the same location.
+    - [09:22 AM] The damage is worse than expected. Stay safe!
+    - [09:42 AM] I just drove past this area, it's really bad.
+
+Report ID: R446 | User ID: U916 | Timestamp: 08:55 AM | Location: Union Square (37.7879, -122.4074) | Description: A group of volunteers is helping clear rubble from the streets.
+  Comments:
+    - [09:21 AM] I heard sirens heading in that direction.
+    - [09:08 AM] We need volunteers at the shelters.
+
+Report ID: R447 | User ID: U481 | Timestamp: 09:44 AM | Location: Chinatown (37.7941, -122.4078) | Description: Reports of missing persons are growing, with authorities setting up an emergency hotline.
+  Comments:
+    - [09:47 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R448 | User ID: U514 | Timestamp: 08:55 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Seismic experts are warning that more aftershocks could follow in the next 24 hours.
+  Comments:
+    - [09:10 AM] My family and I just evacuated from this street.
+    - [09:14 AM] The bridge is definitely cracked, saw it myself.
+    - [09:11 AM] Gas stations are running out of fuel fast.
+
+Report ID: R449 | User ID: U553 | Timestamp: 09:23 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A section of the Bay Bridge has collapsed. Vehicles are stranded, and emergency crews are rushing in.
+  Comments:
+    - [09:52 AM] My family and I just evacuated from this street.
+    - [09:41 AM] My neighbor’s house collapsed on the same block!
+    - [09:28 AM] Rescue crews are already here working on it.
+
+Report ID: R450 | User ID: U799 | Timestamp: 09:37 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A five-story apartment building on Market Street has partially collapsed. Residents are trapped under debris.
+  Comments:
+    - [10:07 AM] Rescue crews are already here working on it.
+    - [09:59 AM] Aftershocks are still happening, be careful!
+    - [09:58 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R451 | User ID: U160 | Timestamp: 09:45 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Cracks are forming along the Embarcadero. Water is seeping through, raising fears of flooding.
+  Comments:
+    - [09:58 AM] I heard sirens heading in that direction.
+
+Report ID: R452 | User ID: U679 | Timestamp: 09:14 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Rescue workers are searching for survivors inside a collapsed parking garage in the Financial District.
+  Comments:
+    - [09:22 AM] This is getting worse, emergency teams need more support.
+    - [09:33 AM] I saw this too! The shaking was intense.
+    - [09:31 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R453 | User ID: U491 | Timestamp: 09:25 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Smoke is rising from the Marina District due to a ruptured gas line. Firefighters are struggling to contain the flames.
+  Comments:
+    - [09:39 AM] Traffic is a nightmare, avoid this route if you can.
+    - [09:26 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R454 | User ID: U531 | Timestamp: 08:45 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A large aftershock just hit! More buildings are crumbling near Union Square.
+  Comments:
+    - [09:07 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R455 | User ID: U392 | Timestamp: 09:28 AM | Location: Financial District (37.7946, -122.3999) | Description: A sinkhole just opened up in the Mission District. Cars have fallen in!
+  Comments:
+    - [09:39 AM] The bridge is definitely cracked, saw it myself.
+    - [09:52 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R456 | User ID: U958 | Timestamp: 09:54 AM | Location: Union Square (37.7879, -122.4074) | Description: People are forming human chains to pull survivors from a collapsed office building downtown.
+  Comments:
+    - [10:06 AM] Rescue crews are already here working on it.
+    - [10:18 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R457 | User ID: U301 | Timestamp: 08:33 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Hundreds of people are taking refuge in Dolores Park as they wait for emergency responders.
+  Comments:
+    - [08:51 AM] This is getting worse, emergency teams need more support.
+    - [08:49 AM] I just drove past this area, it's really bad.
+
+Report ID: R458 | User ID: U747 | Timestamp: 09:06 AM | Location: Chinatown (37.7941, -122.4078) | Description: Gas stations are shutting down after reports of underground pipe ruptures.
+
+Report ID: R459 | User ID: U330 | Timestamp: 08:39 AM | Location: Chinatown (37.7941, -122.4078) | Description: The Golden Gate Bridge is now closed. Officials are worried about structural damage.
+  Comments:
+    - [08:57 AM] Helicopters are circling the city, getting a better view.
+    - [08:59 AM] The bridge is definitely cracked, saw it myself.
+    - [09:08 AM] People are handing out water and blankets here.
+
+Report ID: R460 | User ID: U485 | Timestamp: 09:11 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Firefighters are evacuating a nursing home near Chinatown. Many elderly residents need medical attention.
+  Comments:
+    - [09:22 AM] There was another fire reported nearby.
+    - [09:37 AM] We need volunteers at the shelters.
+
+Report ID: R461 | User ID: U196 | Timestamp: 09:27 AM | Location: Presidio (37.7989, -122.4662) | Description: San Francisco General Hospital is overwhelmed with injured victims.
+  Comments:
+    - [09:41 AM] A gas leak was just reported close to here.
+
+Report ID: R462 | User ID: U156 | Timestamp: 08:49 AM | Location: Mission District (37.7599, -122.4148) | Description: BART stations have closed indefinitely due to track damage and electrical failures.
+
+Report ID: R463 | User ID: U827 | Timestamp: 09:32 AM | Location: Union Square (37.7879, -122.4074) | Description: Looters have broken into a supermarket near South of Market. Police are trying to control the chaos.
+  Comments:
+    - [09:46 AM] My neighbor’s house collapsed on the same block!
+    - [09:57 AM] A gas leak was just reported close to here.
+    - [09:46 AM] First responders are struggling to reach some areas.
+
+Report ID: R464 | User ID: U622 | Timestamp: 09:59 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: The Ferry Building clock tower is leaning slightly to one side. Engineers are assessing the damage.
+  Comments:
+    - [10:20 AM] People are handing out water and blankets here.
+
+Report ID: R465 | User ID: U355 | Timestamp: 10:07 AM | Location: Embarcadero (37.7955, -122.3937) | Description: A major landslide has blocked a section of Highway 1 near Daly City.
+  Comments:
+    - [10:17 AM] This is getting worse, emergency teams need more support.
+    - [10:16 AM] People are handing out water and blankets here.
+    - [10:14 AM] Gas stations are running out of fuel fast.
+
+Report ID: R466 | User ID: U530 | Timestamp: 08:59 AM | Location: Financial District (37.7946, -122.3999) | Description: Emergency shelters are being set up in local school gymnasiums.
+  Comments:
+    - [09:15 AM] We need volunteers at the shelters.
+    - [09:10 AM] Police have blocked off the area for safety.
+
+Report ID: R467 | User ID: U243 | Timestamp: 08:57 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: People are sleeping in their cars, afraid to return to their damaged homes.
+  Comments:
+    - [09:15 AM] Aftershocks are still happening, be careful!
+    - [08:59 AM] Can confirm, I lost power in the same location.
+
+Report ID: R468 | User ID: U151 | Timestamp: 08:48 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: Cell towers are down in multiple neighborhoods. Communication is difficult.
+
+Report ID: R469 | User ID: U844 | Timestamp: 08:33 AM | Location: Fisherman's Wharf (37.808, -122.4177) | Description: A section of San Francisco International Airport's runway has cracked, grounding all flights.
+  Comments:
+    - [08:58 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R470 | User ID: U365 | Timestamp: 08:47 AM | Location: Presidio (37.7989, -122.4662) | Description: A massive fire has engulfed a residential block near North Beach.
+  Comments:
+    - [09:07 AM] Rescue crews are already here working on it.
+
+Report ID: R471 | User ID: U320 | Timestamp: 08:23 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The Salesforce Tower is visibly swaying. Office workers have evacuated.
+  Comments:
+    - [08:33 AM] This is getting worse, emergency teams need more support.
+    - [08:25 AM] My neighbor’s house collapsed on the same block!
+    - [08:31 AM] My family and I just evacuated from this street.
+
+Report ID: R472 | User ID: U237 | Timestamp: 10:10 AM | Location: Union Square (37.7879, -122.4074) | Description: Emergency teams are rescuing people from a tilted high-rise near the Transamerica Pyramid.
+  Comments:
+    - [10:18 AM] Helicopters are circling the city, getting a better view.
+    - [10:30 AM] I heard sirens heading in that direction.
+
+Report ID: R473 | User ID: U655 | Timestamp: 09:34 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Medical teams are setting up triage tents in Golden Gate Park.
+  Comments:
+    - [09:51 AM] My family and I just evacuated from this street.
+    - [09:43 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R474 | User ID: U713 | Timestamp: 09:44 AM | Location: Financial District (37.7946, -122.3999) | Description: A tsunami warning siren is blaring. People along the coast are evacuating to higher ground.
+
+Report ID: R475 | User ID: U889 | Timestamp: 09:35 AM | Location: Financial District (37.7946, -122.3999) | Description: Water pipes have burst across the city, flooding subway tunnels.
+
+Report ID: R476 | User ID: U131 | Timestamp: 09:08 AM | Location: Mission District (37.7599, -122.4148) | Description: Officials are ordering a mandatory evacuation of Treasure Island.
+  Comments:
+    - [09:14 AM] There was another fire reported nearby.
+    - [09:14 AM] First responders are struggling to reach some areas.
+    - [09:25 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R477 | User ID: U132 | Timestamp: 09:37 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: A historic theater in the Castro District has collapsed. Rescuers are searching for survivors.
+  Comments:
+    - [09:49 AM] I heard sirens heading in that direction.
+
+Report ID: R478 | User ID: U410 | Timestamp: 09:08 AM | Location: Embarcadero (37.7955, -122.3937) | Description: The 1906 earthquake memorial statue has fallen over due to the shaking.
+  Comments:
+    - [09:29 AM] I saw this too! The shaking was intense.
+    - [09:09 AM] Gas stations are running out of fuel fast.
+    - [09:10 AM] I heard sirens heading in that direction.
+
+Report ID: R479 | User ID: U672 | Timestamp: 09:51 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Several homes in the Presidio have caught fire, and firefighters are battling to save them.
+
+Report ID: R480 | User ID: U961 | Timestamp: 09:35 AM | Location: Union Square (37.7879, -122.4074) | Description: Boats in the harbor have been thrown against the docks by the shaking.
+  Comments:
+    - [09:52 AM] Traffic is a nightmare, avoid this route if you can.
+    - [10:02 AM] There was another fire reported nearby.
+    - [09:54 AM] This is getting worse, emergency teams need more support.
+
+Report ID: R481 | User ID: U130 | Timestamp: 08:37 AM | Location: Union Square (37.7879, -122.4074) | Description: Parents are desperately searching for their children after schools were evacuated.
+  Comments:
+    - [09:03 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R482 | User ID: U728 | Timestamp: 09:28 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Pharmacies have long lines as people try to get emergency supplies.
+  Comments:
+    - [09:36 AM] My neighbor’s house collapsed on the same block!
+    - [09:38 AM] I heard sirens heading in that direction.
+    - [09:32 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R483 | User ID: U150 | Timestamp: 09:02 AM | Location: Financial District (37.7946, -122.3999) | Description: Military helicopters are circling the city, assisting in rescue operations.
+  Comments:
+    - [09:22 AM] Helicopters are circling the city, getting a better view.
+    - [09:10 AM] Helicopters are circling the city, getting a better view.
+
+Report ID: R484 | User ID: U402 | Timestamp: 08:37 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: The mayor has declared a state of emergency, urging all citizens to remain calm.
+  Comments:
+    - [08:54 AM] People are handing out water and blankets here.
+    - [08:59 AM] Can confirm, I lost power in the same location.
+    - [08:42 AM] First responders are struggling to reach some areas.
+
+Report ID: R485 | User ID: U778 | Timestamp: 09:56 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Volunteer groups are setting up food and water distribution stations across the city.
+  Comments:
+    - [10:16 AM] Can confirm, I lost power in the same location.
+
+Report ID: R486 | User ID: U983 | Timestamp: 08:25 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A famous restaurant in Fisherman’s Wharf has been reduced to rubble.
+  Comments:
+    - [08:37 AM] A gas leak was just reported close to here.
+    - [08:37 AM] The bridge is definitely cracked, saw it myself.
+
+Report ID: R487 | User ID: U206 | Timestamp: 10:01 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: A police officer is helping an elderly couple trapped in their car under debris.
+
+Report ID: R488 | User ID: U843 | Timestamp: 09:08 AM | Location: Union Square (37.7879, -122.4074) | Description: News helicopters are broadcasting the devastation across the country.
+
+Report ID: R489 | User ID: U190 | Timestamp: 08:46 AM | Location: Financial District (37.7946, -122.3999) | Description: A cracked dam near the city is being monitored for potential failure.
+
+Report ID: R490 | User ID: U322 | Timestamp: 09:52 AM | Location: Embarcadero (37.7955, -122.3937) | Description: Hundreds of pets have gone missing, and volunteers are organizing a rescue effort.
+  Comments:
+    - [10:19 AM] Police have blocked off the area for safety.
+    - [10:16 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R491 | User ID: U279 | Timestamp: 09:28 AM | Location: Golden Gate Bridge (37.8199, -122.4783) | Description: Downtown streets are filled with people carrying whatever belongings they could grab.
+  Comments:
+    - [09:58 AM] First responders are struggling to reach some areas.
+    - [09:55 AM] Helicopters are circling the city, getting a better view.
+    - [09:37 AM] Aftershocks are still happening, be careful!
+
+Report ID: R492 | User ID: U423 | Timestamp: 08:55 AM | Location: San Francisco International Airport (37.6213, -122.379) | Description: Nurses and doctors are working nonstop at makeshift hospitals in parking lots.
+  Comments:
+    - [09:10 AM] Can confirm, I lost power in the same location.
+    - [09:11 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R493 | User ID: U364 | Timestamp: 09:58 AM | Location: Union Square (37.7879, -122.4074) | Description: The city's emergency sirens failed to activate in some areas, causing confusion.
+  Comments:
+    - [10:03 AM] The bridge is definitely cracked, saw it myself.
+    - [10:22 AM] My neighbor’s house collapsed on the same block!
+
+Report ID: R494 | User ID: U319 | Timestamp: 08:46 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: First responders are prioritizing those trapped under debris before nightfall.
+  Comments:
+    - [09:09 AM] Aftershocks are still happening, be careful!
+    - [09:10 AM] I just drove past this area, it's really bad.
+    - [09:12 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R495 | User ID: U866 | Timestamp: 09:30 AM | Location: Union Square (37.7879, -122.4074) | Description: Businesses are offering free food and shelter to those displaced.
+  Comments:
+    - [09:47 AM] This is getting worse, emergency teams need more support.
+    - [09:52 AM] Traffic is a nightmare, avoid this route if you can.
+
+Report ID: R496 | User ID: U305 | Timestamp: 09:28 AM | Location: Presidio (37.7989, -122.4662) | Description: A major hotel has been declared unsafe, and guests are being evacuated immediately.
+  Comments:
+    - [09:32 AM] Rescue crews are already here working on it.
+    - [09:45 AM] The bridge is definitely cracked, saw it myself.
+    - [09:48 AM] The damage is worse than expected. Stay safe!
+
+Report ID: R497 | User ID: U609 | Timestamp: 08:55 AM | Location: Presidio (37.7989, -122.4662) | Description: Drone footage is revealing entire blocks flattened by the quake.
+
+Report ID: R498 | User ID: U451 | Timestamp: 09:31 AM | Location: Chinatown (37.7941, -122.4078) | Description: Families are reuniting in designated emergency meeting areas.
+
+Report ID: R499 | User ID: U337 | Timestamp: 08:58 AM | Location: South of Market (SoMa) (37.7786, -122.3969) | Description: Social media is flooded with live updates from people trapped in buildings.
+  Comments:
+    - [09:25 AM] I saw this too! The shaking was intense.
+
+Report ID: R500 | User ID: U107 | Timestamp: 08:53 AM | Location: Union Square (37.7879, -122.4074) | Description: A gas main explosion just sent flames shooting into the sky in the Mission District.
+  Comments:
+    - [09:06 AM] My neighbor’s house collapsed on the same block!
+    - [08:55 AM] I heard sirens heading in that direction.
+    - [09:12 AM] There was another fire reported nearby.
