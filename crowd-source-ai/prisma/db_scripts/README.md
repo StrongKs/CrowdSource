@@ -23,6 +23,9 @@ Must have `tsx` package installed to run the .tsx script. Run `npm install -g ts
   },
 ```
 
+### File Layout
+In incident_reports folder contains the data in `.json` for handling data and `/.txt` for more easly seeing data. `.json` is what is being used in the scripts to load the db. There are 3 senarios that can be set up - Gainesville fire, Palisades fire, and SanFancisco Earthquake. Ensure to delete current data before loading new data.
+
 ### Script files
 1. `sandbox`: Testing environment to help make scripts and query db
 2. `syntheticDataGainesville`: Generates 150 posts and ~250 comments about UF Marston fire
