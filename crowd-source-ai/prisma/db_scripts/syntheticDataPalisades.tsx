@@ -19,7 +19,9 @@ async function main() {
         const newPost = await prisma.post.create({
             data: {
                 author_name: faker.person.firstName() + " " + faker.person.lastName(),
-                content: report.Description
+                content: report.Description,
+                latitude: report.Coordinates.Latitude,
+                longitude: report.Coordinates.Longitude,
             }
         });
 
@@ -30,7 +32,9 @@ async function main() {
                 data: { 
                     author_name: faker.person.firstName() + " " + faker.person.lastName(), 
                     content: commentReport.Comment, 
-                    post: { connect: { id: newPost.id } } 
+                    post: { connect: { id: newPost.id } },
+                    latitude: report.Coordinates.Latitude,
+                    longitude: report.Coordinates.Longitude,    
                 }
             })
         );

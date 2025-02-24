@@ -4,7 +4,14 @@ const prisma = new PrismaClient()
 // use `prisma` in your application to read and write data in your DB
 
 async function main() {
-  const defaultClient = await prisma.post.create( { data: { author_name : "default_name", content : "script ran" } } )
+  const defaultClient = await prisma.post.create( 
+    { data : {
+        author_name : "default_name", 
+        content : "script ran", 
+        latitude: 0.0,
+        longitude: 0.0, 
+        } 
+    } )
   console.log(defaultClient)
 }
 
