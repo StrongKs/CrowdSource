@@ -9,6 +9,8 @@ export async function addDefaultPost() {
             data: {
                 author_name: "Jane Doe",
                 content: "This is a default post",
+                latitude: 0.0,
+                longitude: 0.0, 
             }
         });
         console.log("Default post created successfully", post);
@@ -24,6 +26,8 @@ export async function addPosts(author_name: string, content: string) {
             data: {
                 author_name: `${author_name}`,
                 content: `${content}`,
+                latitude: 0.0,
+                longitude: 0.0, 
             }
         });
         console.log("Post created successfully", post);
