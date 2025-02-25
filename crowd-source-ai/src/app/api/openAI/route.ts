@@ -1,10 +1,6 @@
 "use server";
 
 import OpenAI from "openai";
-import * as dotenv from "dotenv";
-
-// Load environment variables
-dotenv.config();
 
 // Debugging: Print the API key
 console.log("Raw API Key:", process.env.OPENAI_API_KEY);

@@ -11,7 +11,7 @@ import { Button } from "./ui/button";
 // import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
 import { addDefaultPost, addPosts } from "@/actions/post.action";
-import { OpenAI_Request } from '@/app/api/deepseek/route';
+import { OpenAI_Request } from '@/app/api/openAI/route';
 
 function CreatePost() {
 //   const { user } = useUser();
