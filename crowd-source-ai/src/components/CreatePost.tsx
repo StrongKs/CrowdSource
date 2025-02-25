@@ -11,7 +11,6 @@ import { Button } from "./ui/button";
 // import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
 import { addDefaultPost, addPosts } from "@/actions/post.action";
-import { OpenAI_Request } from '@/app/api/deepseek/route';
 
 function CreatePost() {
 //   const { user } = useUser();
@@ -28,11 +27,6 @@ function CreatePost() {
       addPosts("author_name", content); // we need to create UI for author_name
       console.log("Content " + content);
       console.log("Post created successfully with content but not actual author name");
-
-      console.log("Calling POST OpenAI API");
-      const response = await OpenAI_Request(content);
-      console.log("Response: " + response);
-
       // const result = await createPost(content, imageUrl);
       // if (result?.success) {
       //   // reset the form
@@ -42,7 +36,6 @@ function CreatePost() {
 
       //   toast.success("Post created successfully");
       // }
-
     } catch (error) {
       console.error("Failed to create post:", error);
       // toast.error("Failed to create post");
