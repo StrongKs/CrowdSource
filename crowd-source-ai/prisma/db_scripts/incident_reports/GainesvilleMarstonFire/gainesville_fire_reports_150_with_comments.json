@@ -1,0 +1,2971 @@
+[
+    {
+        "Report ID": "R001",
+        "User ID": "U255",
+        "Timestamp": "04:49 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R002",
+        "User ID": "U587",
+        "Timestamp": "05:11 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "05:19 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            }
+        ]
+    },
+    {
+        "Report ID": "R003",
+        "User ID": "U863",
+        "Timestamp": "04:15 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": [
+            {
+                "Timestamp": "04:27 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "04:24 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            },
+            {
+                "Timestamp": "04:19 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R004",
+        "User ID": "U882",
+        "Timestamp": "04:40 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": [
+            {
+                "Timestamp": "04:47 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            },
+            {
+                "Timestamp": "04:59 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R005",
+        "User ID": "U837",
+        "Timestamp": "03:51 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "03:53 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R006",
+        "User ID": "U504",
+        "Timestamp": "04:09 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "04:22 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            },
+            {
+                "Timestamp": "04:18 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R007",
+        "User ID": "U409",
+        "Timestamp": "04:23 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": [
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            },
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R008",
+        "User ID": "U473",
+        "Timestamp": "03:49 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:09 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R009",
+        "User ID": "U163",
+        "Timestamp": "04:10 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:17 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:18 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:14 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            }
+        ]
+    },
+    {
+        "Report ID": "R010",
+        "User ID": "U469",
+        "Timestamp": "04:06 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "04:17 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:26 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "04:10 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R011",
+        "User ID": "U974",
+        "Timestamp": "04:38 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": [
+            {
+                "Timestamp": "04:54 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            }
+        ]
+    },
+    {
+        "Report ID": "R012",
+        "User ID": "U233",
+        "Timestamp": "04:39 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": [
+            {
+                "Timestamp": "04:49 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "04:45 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R013",
+        "User ID": "U573",
+        "Timestamp": "03:47 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": [
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            },
+            {
+                "Timestamp": "04:01 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "03:50 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R014",
+        "User ID": "U697",
+        "Timestamp": "04:59 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": [
+            {
+                "Timestamp": "05:06 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R015",
+        "User ID": "U154",
+        "Timestamp": "04:56 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": [
+            {
+                "Timestamp": "05:14 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "05:03 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            },
+            {
+                "Timestamp": "05:08 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R016",
+        "User ID": "U645",
+        "Timestamp": "04:50 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": [
+            {
+                "Timestamp": "05:10 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            },
+            {
+                "Timestamp": "04:55 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "04:55 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R017",
+        "User ID": "U849",
+        "Timestamp": "04:13 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": [
+            {
+                "Timestamp": "04:29 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R018",
+        "User ID": "U436",
+        "Timestamp": "04:43 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": [
+            {
+                "Timestamp": "04:54 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:49 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:48 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            }
+        ]
+    },
+    {
+        "Report ID": "R019",
+        "User ID": "U874",
+        "Timestamp": "04:27 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R020",
+        "User ID": "U765",
+        "Timestamp": "04:41 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:48 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            },
+            {
+                "Timestamp": "04:54 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "05:01 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R021",
+        "User ID": "U342",
+        "Timestamp": "04:31 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": [
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "04:36 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R022",
+        "User ID": "U693",
+        "Timestamp": "04:04 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "04:09 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "04:11 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            },
+            {
+                "Timestamp": "04:17 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R023",
+        "User ID": "U677",
+        "Timestamp": "03:46 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": [
+            {
+                "Timestamp": "04:06 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R024",
+        "User ID": "U164",
+        "Timestamp": "04:08 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": [
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R025",
+        "User ID": "U522",
+        "Timestamp": "05:09 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "05:26 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "05:12 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "05:22 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R026",
+        "User ID": "U448",
+        "Timestamp": "04:04 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R027",
+        "User ID": "U189",
+        "Timestamp": "03:58 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": [
+            {
+                "Timestamp": "04:18 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R028",
+        "User ID": "U139",
+        "Timestamp": "05:02 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": [
+            {
+                "Timestamp": "05:10 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "05:09 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "05:06 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R029",
+        "User ID": "U852",
+        "Timestamp": "03:59 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:07 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "04:19 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R030",
+        "User ID": "U145",
+        "Timestamp": "04:50 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "04:57 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "05:08 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R031",
+        "User ID": "U194",
+        "Timestamp": "04:28 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": [
+            {
+                "Timestamp": "04:48 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R032",
+        "User ID": "U541",
+        "Timestamp": "05:14 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R033",
+        "User ID": "U721",
+        "Timestamp": "04:29 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": [
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            }
+        ]
+    },
+    {
+        "Report ID": "R034",
+        "User ID": "U394",
+        "Timestamp": "04:34 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": [
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            },
+            {
+                "Timestamp": "04:45 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            }
+        ]
+    },
+    {
+        "Report ID": "R035",
+        "User ID": "U182",
+        "Timestamp": "04:04 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:22 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            },
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R036",
+        "User ID": "U917",
+        "Timestamp": "05:05 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": [
+            {
+                "Timestamp": "05:09 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R037",
+        "User ID": "U678",
+        "Timestamp": "04:50 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": [
+            {
+                "Timestamp": "04:57 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "05:06 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R038",
+        "User ID": "U554",
+        "Timestamp": "03:59 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": [
+            {
+                "Timestamp": "04:19 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            },
+            {
+                "Timestamp": "04:15 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R039",
+        "User ID": "U856",
+        "Timestamp": "04:20 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": [
+            {
+                "Timestamp": "04:38 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "04:34 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R040",
+        "User ID": "U603",
+        "Timestamp": "04:11 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:17 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:13 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            },
+            {
+                "Timestamp": "04:31 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            }
+        ]
+    },
+    {
+        "Report ID": "R041",
+        "User ID": "U963",
+        "Timestamp": "04:33 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": [
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "04:41 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R042",
+        "User ID": "U398",
+        "Timestamp": "04:32 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R043",
+        "User ID": "U200",
+        "Timestamp": "04:46 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": [
+            {
+                "Timestamp": "05:06 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "05:03 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "04:53 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R044",
+        "User ID": "U196",
+        "Timestamp": "05:13 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": [
+            {
+                "Timestamp": "05:19 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "05:30 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R045",
+        "User ID": "U112",
+        "Timestamp": "04:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "04:08 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            },
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R046",
+        "User ID": "U285",
+        "Timestamp": "04:36 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "04:38 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R047",
+        "User ID": "U296",
+        "Timestamp": "05:13 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": [
+            {
+                "Timestamp": "05:27 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R048",
+        "User ID": "U106",
+        "Timestamp": "04:06 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R049",
+        "User ID": "U948",
+        "Timestamp": "04:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:12 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R050",
+        "User ID": "U535",
+        "Timestamp": "04:17 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "04:29 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:25 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            },
+            {
+                "Timestamp": "04:35 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R051",
+        "User ID": "U178",
+        "Timestamp": "04:05 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R052",
+        "User ID": "U537",
+        "Timestamp": "05:02 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R053",
+        "User ID": "U334",
+        "Timestamp": "05:03 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": [
+            {
+                "Timestamp": "05:15 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            }
+        ]
+    },
+    {
+        "Report ID": "R054",
+        "User ID": "U768",
+        "Timestamp": "03:49 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": [
+            {
+                "Timestamp": "03:51 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            },
+            {
+                "Timestamp": "04:09 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "03:53 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R055",
+        "User ID": "U483",
+        "Timestamp": "04:25 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R056",
+        "User ID": "U735",
+        "Timestamp": "03:47 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": [
+            {
+                "Timestamp": "03:56 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R057",
+        "User ID": "U140",
+        "Timestamp": "04:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R058",
+        "User ID": "U830",
+        "Timestamp": "05:15 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": [
+            {
+                "Timestamp": "05:27 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            }
+        ]
+    },
+    {
+        "Report ID": "R059",
+        "User ID": "U131",
+        "Timestamp": "04:20 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": [
+            {
+                "Timestamp": "04:37 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            },
+            {
+                "Timestamp": "04:29 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            },
+            {
+                "Timestamp": "04:32 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R060",
+        "User ID": "U769",
+        "Timestamp": "04:36 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R061",
+        "User ID": "U874",
+        "Timestamp": "04:53 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": [
+            {
+                "Timestamp": "05:12 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "05:08 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "05:08 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R062",
+        "User ID": "U836",
+        "Timestamp": "03:45 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "04:02 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "03:51 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R063",
+        "User ID": "U789",
+        "Timestamp": "04:27 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R064",
+        "User ID": "U102",
+        "Timestamp": "04:50 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R065",
+        "User ID": "U896",
+        "Timestamp": "04:51 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "05:04 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            }
+        ]
+    },
+    {
+        "Report ID": "R066",
+        "User ID": "U148",
+        "Timestamp": "04:49 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "04:55 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            },
+            {
+                "Timestamp": "04:50 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            },
+            {
+                "Timestamp": "04:57 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R067",
+        "User ID": "U174",
+        "Timestamp": "04:56 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": [
+            {
+                "Timestamp": "04:57 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "05:05 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R068",
+        "User ID": "U322",
+        "Timestamp": "04:23 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R069",
+        "User ID": "U920",
+        "Timestamp": "03:46 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "03:58 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            },
+            {
+                "Timestamp": "04:03 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "03:54 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            }
+        ]
+    },
+    {
+        "Report ID": "R070",
+        "User ID": "U743",
+        "Timestamp": "05:07 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R071",
+        "User ID": "U795",
+        "Timestamp": "04:26 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": [
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            },
+            {
+                "Timestamp": "04:34 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R072",
+        "User ID": "U598",
+        "Timestamp": "04:37 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": [
+            {
+                "Timestamp": "04:38 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R073",
+        "User ID": "U353",
+        "Timestamp": "05:04 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": [
+            {
+                "Timestamp": "05:11 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "05:24 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "05:11 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R074",
+        "User ID": "U978",
+        "Timestamp": "04:02 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": [
+            {
+                "Timestamp": "04:11 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R075",
+        "User ID": "U929",
+        "Timestamp": "05:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": [
+            {
+                "Timestamp": "05:03 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R076",
+        "User ID": "U480",
+        "Timestamp": "05:13 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": [
+            {
+                "Timestamp": "05:27 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R077",
+        "User ID": "U718",
+        "Timestamp": "05:14 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": [
+            {
+                "Timestamp": "05:26 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "05:19 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "05:24 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R078",
+        "User ID": "U417",
+        "Timestamp": "04:15 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R079",
+        "User ID": "U723",
+        "Timestamp": "04:03 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": [
+            {
+                "Timestamp": "04:21 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            }
+        ]
+    },
+    {
+        "Report ID": "R080",
+        "User ID": "U311",
+        "Timestamp": "04:56 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R081",
+        "User ID": "U658",
+        "Timestamp": "03:57 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": [
+            {
+                "Timestamp": "04:17 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            },
+            {
+                "Timestamp": "04:14 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            }
+        ]
+    },
+    {
+        "Report ID": "R082",
+        "User ID": "U947",
+        "Timestamp": "04:21 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "04:41 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "04:40 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "04:38 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R083",
+        "User ID": "U569",
+        "Timestamp": "03:54 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R084",
+        "User ID": "U333",
+        "Timestamp": "04:19 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": [
+            {
+                "Timestamp": "04:28 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            },
+            {
+                "Timestamp": "04:34 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            },
+            {
+                "Timestamp": "04:21 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            }
+        ]
+    },
+    {
+        "Report ID": "R085",
+        "User ID": "U829",
+        "Timestamp": "05:13 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "05:32 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R086",
+        "User ID": "U716",
+        "Timestamp": "04:56 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "05:07 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "05:05 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R087",
+        "User ID": "U390",
+        "Timestamp": "04:35 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": [
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R088",
+        "User ID": "U195",
+        "Timestamp": "03:48 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:07 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            }
+        ]
+    },
+    {
+        "Report ID": "R089",
+        "User ID": "U833",
+        "Timestamp": "05:08 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "05:27 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            }
+        ]
+    },
+    {
+        "Report ID": "R090",
+        "User ID": "U514",
+        "Timestamp": "03:45 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "03:46 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R091",
+        "User ID": "U962",
+        "Timestamp": "04:30 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": [
+            {
+                "Timestamp": "04:34 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            },
+            {
+                "Timestamp": "04:45 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "04:38 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R092",
+        "User ID": "U486",
+        "Timestamp": "04:52 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": [
+            {
+                "Timestamp": "05:08 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "05:11 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R093",
+        "User ID": "U821",
+        "Timestamp": "04:54 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": [
+            {
+                "Timestamp": "05:06 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            },
+            {
+                "Timestamp": "05:01 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "05:07 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R094",
+        "User ID": "U256",
+        "Timestamp": "04:31 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R095",
+        "User ID": "U220",
+        "Timestamp": "03:56 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:07 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            },
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "04:02 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R096",
+        "User ID": "U993",
+        "Timestamp": "04:52 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": [
+            {
+                "Timestamp": "04:55 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R097",
+        "User ID": "U349",
+        "Timestamp": "05:05 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R098",
+        "User ID": "U606",
+        "Timestamp": "04:03 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R099",
+        "User ID": "U667",
+        "Timestamp": "04:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R100",
+        "User ID": "U267",
+        "Timestamp": "05:14 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "05:19 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "05:18 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "05:22 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R101",
+        "User ID": "U930",
+        "Timestamp": "04:27 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R102",
+        "User ID": "U823",
+        "Timestamp": "04:44 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "05:02 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            },
+            {
+                "Timestamp": "05:03 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "05:04 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R103",
+        "User ID": "U806",
+        "Timestamp": "04:31 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": [
+            {
+                "Timestamp": "04:47 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            },
+            {
+                "Timestamp": "04:47 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R104",
+        "User ID": "U487",
+        "Timestamp": "05:03 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R105",
+        "User ID": "U664",
+        "Timestamp": "04:34 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            },
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R106",
+        "User ID": "U336",
+        "Timestamp": "04:25 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "04:42 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            },
+            {
+                "Timestamp": "04:30 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "04:32 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R107",
+        "User ID": "U312",
+        "Timestamp": "04:36 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": [
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:37 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R108",
+        "User ID": "U883",
+        "Timestamp": "04:49 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:50 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "04:59 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:52 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            }
+        ]
+    },
+    {
+        "Report ID": "R109",
+        "User ID": "U127",
+        "Timestamp": "04:37 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:40 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R110",
+        "User ID": "U624",
+        "Timestamp": "05:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "05:17 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "05:20 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R111",
+        "User ID": "U225",
+        "Timestamp": "03:49 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": [
+            {
+                "Timestamp": "03:56 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "03:51 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:03 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R112",
+        "User ID": "U542",
+        "Timestamp": "03:46 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": [
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "03:55 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            },
+            {
+                "Timestamp": "03:48 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R113",
+        "User ID": "U524",
+        "Timestamp": "05:06 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": [
+            {
+                "Timestamp": "05:15 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R114",
+        "User ID": "U867",
+        "Timestamp": "04:40 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": [
+            {
+                "Timestamp": "04:43 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R115",
+        "User ID": "U426",
+        "Timestamp": "04:03 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            },
+            {
+                "Timestamp": "04:10 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            },
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R116",
+        "User ID": "U758",
+        "Timestamp": "04:20 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": [
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            },
+            {
+                "Timestamp": "04:33 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            }
+        ]
+    },
+    {
+        "Report ID": "R117",
+        "User ID": "U283",
+        "Timestamp": "04:51 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": [
+            {
+                "Timestamp": "05:04 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:55 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "04:57 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R118",
+        "User ID": "U450",
+        "Timestamp": "04:40 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": [
+            {
+                "Timestamp": "04:58 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            },
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            },
+            {
+                "Timestamp": "04:43 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R119",
+        "User ID": "U711",
+        "Timestamp": "03:45 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R120",
+        "User ID": "U536",
+        "Timestamp": "04:20 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:33 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:40 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R121",
+        "User ID": "U887",
+        "Timestamp": "05:09 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": [
+            {
+                "Timestamp": "05:16 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "05:24 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "05:23 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            }
+        ]
+    },
+    {
+        "Report ID": "R122",
+        "User ID": "U342",
+        "Timestamp": "04:05 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R123",
+        "User ID": "U713",
+        "Timestamp": "03:55 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R124",
+        "User ID": "U623",
+        "Timestamp": "04:32 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": [
+            {
+                "Timestamp": "04:49 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "04:49 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            },
+            {
+                "Timestamp": "04:47 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            }
+        ]
+    },
+    {
+        "Report ID": "R125",
+        "User ID": "U353",
+        "Timestamp": "05:07 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "05:27 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            },
+            {
+                "Timestamp": "05:20 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            },
+            {
+                "Timestamp": "05:24 PM",
+                "Comment": "They\u2019re evacuating other nearby buildings just in case."
+            }
+        ]
+    },
+    {
+        "Report ID": "R126",
+        "User ID": "U114",
+        "Timestamp": "04:00 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "04:04 PM",
+                "Comment": "Reitz Union is setting up an emergency station for people affected by the fire."
+            },
+            {
+                "Timestamp": "04:15 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "04:14 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R127",
+        "User ID": "U559",
+        "Timestamp": "05:08 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R128",
+        "User ID": "U935",
+        "Timestamp": "04:30 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:35 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            },
+            {
+                "Timestamp": "04:50 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            }
+        ]
+    },
+    {
+        "Report ID": "R129",
+        "User ID": "U935",
+        "Timestamp": "04:43 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:58 PM",
+                "Comment": "They\u2019re telling people to stay away from the area."
+            }
+        ]
+    },
+    {
+        "Report ID": "R130",
+        "User ID": "U706",
+        "Timestamp": "04:41 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "You can smell the smoke even from Library West."
+            },
+            {
+                "Timestamp": "04:53 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            }
+        ]
+    },
+    {
+        "Report ID": "R131",
+        "User ID": "U719",
+        "Timestamp": "04:11 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "People are standing near Turlington, watching the fire grow. Some are recording it on their phones.",
+        "Comments": [
+            {
+                "Timestamp": "04:20 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:14 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            },
+            {
+                "Timestamp": "04:16 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            }
+        ]
+    },
+    {
+        "Report ID": "R132",
+        "User ID": "U853",
+        "Timestamp": "04:29 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A firefighter just ran into the building with a breathing mask. Someone may still be trapped inside.",
+        "Comments": [
+            {
+                "Timestamp": "04:35 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:36 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R133",
+        "User ID": "U426",
+        "Timestamp": "04:19 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are being told to evacuate other nearby buildings as a precaution.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R134",
+        "User ID": "U994",
+        "Timestamp": "04:59 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A fire truck just pulled up near Library West. More emergency vehicles are on the way.",
+        "Comments": [
+            {
+                "Timestamp": "05:07 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            }
+        ]
+    },
+    {
+        "Report ID": "R135",
+        "User ID": "U653",
+        "Timestamp": "03:58 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Ash is falling on the sidewalks around Marston. The sky is getting darker from the smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:01 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    },
+    {
+        "Report ID": "R136",
+        "User ID": "U848",
+        "Timestamp": "04:48 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Faculty members are trying to account for missing students who were inside Marston when the fire started.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R137",
+        "User ID": "U225",
+        "Timestamp": "04:13 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Someone is waving for help from a third-floor window. Fire crews are moving a ladder toward them.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R138",
+        "User ID": "U465",
+        "Timestamp": "04:28 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders are setting up an aid station outside Reitz Union.",
+        "Comments": [
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "04:44 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            },
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R139",
+        "User ID": "U124",
+        "Timestamp": "04:41 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student said they saw sparks coming from a computer before the fire broke out.",
+        "Comments": [
+            {
+                "Timestamp": "04:45 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            },
+            {
+                "Timestamp": "04:55 PM",
+                "Comment": "I was studying there 10 minutes ago! Glad I left when I did."
+            },
+            {
+                "Timestamp": "04:57 PM",
+                "Comment": "I was outside when I heard the explosion. It was really loud."
+            }
+        ]
+    },
+    {
+        "Report ID": "R140",
+        "User ID": "U796",
+        "Timestamp": "04:28 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The library roof is starting to collapse! Firefighters are moving people away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "04:46 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:34 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            }
+        ]
+    },
+    {
+        "Report ID": "R141",
+        "User ID": "U163",
+        "Timestamp": "03:45 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Heavy smoke is pouring out of the second-floor windows at Marston Science Library. Students are running out coughing.",
+        "Comments": [
+            {
+                "Timestamp": "03:51 PM",
+                "Comment": "I just saw firefighters go in with more gear. Hope they\u2019re okay."
+            }
+        ]
+    },
+    {
+        "Report ID": "R142",
+        "User ID": "U224",
+        "Timestamp": "04:48 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Fire alarms are blaring inside Marston, but some students are still inside! They need to evacuate immediately.",
+        "Comments": [
+            {
+                "Timestamp": "05:05 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            },
+            {
+                "Timestamp": "04:49 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:50 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            }
+        ]
+    },
+    {
+        "Report ID": "R143",
+        "User ID": "U730",
+        "Timestamp": "03:57 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "The fire seems to have started in one of the study rooms on the second floor. Flames are visible through the windows.",
+        "Comments": [
+            {
+                "Timestamp": "04:17 PM",
+                "Comment": "I can see the smoke all the way from Ben Hill Griffin Stadium!"
+            }
+        ]
+    },
+    {
+        "Report ID": "R144",
+        "User ID": "U761",
+        "Timestamp": "04:32 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Emergency responders just arrived at Marston Science Library. They're clearing students from the entrance.",
+        "Comments": [
+            {
+                "Timestamp": "04:37 PM",
+                "Comment": "They need to check if anyone is still inside!"
+            },
+            {
+                "Timestamp": "04:48 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            },
+            {
+                "Timestamp": "04:37 PM",
+                "Comment": "This looks really bad. Hope everyone made it out safely."
+            }
+        ]
+    },
+    {
+        "Report ID": "R145",
+        "User ID": "U208",
+        "Timestamp": "05:15 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A student appears to have collapsed outside from smoke inhalation. Paramedics are treating them now.",
+        "Comments": [
+            {
+                "Timestamp": "05:30 PM",
+                "Comment": "The sprinklers came on, but it didn\u2019t seem to help much."
+            },
+            {
+                "Timestamp": "05:19 PM",
+                "Comment": "The fire alarms went off, but some people ignored them at first!"
+            },
+            {
+                "Timestamp": "05:19 PM",
+                "Comment": "It looks like they\u2019re finally getting the fire under control."
+            }
+        ]
+    },
+    {
+        "Report ID": "R146",
+        "User ID": "U423",
+        "Timestamp": "04:34 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Gainesville Fire Rescue is setting up hoses near the main entrance. Smoke is getting worse by the minute.",
+        "Comments": [
+            {
+                "Timestamp": "04:50 PM",
+                "Comment": "Classes near Marston are being canceled for the day."
+            },
+            {
+                "Timestamp": "04:36 PM",
+                "Comment": "Newell Drive is completely blocked now. Fire trucks are everywhere."
+            },
+            {
+                "Timestamp": "04:48 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            }
+        ]
+    },
+    {
+        "Report ID": "R147",
+        "User ID": "U485",
+        "Timestamp": "04:43 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "A loud explosion just came from inside the library! It might have been something electrical.",
+        "Comments": []
+    },
+    {
+        "Report ID": "R148",
+        "User ID": "U441",
+        "Timestamp": "04:01 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Students are helping each other out of the building. Some are covering their faces with shirts to avoid inhaling smoke.",
+        "Comments": [
+            {
+                "Timestamp": "04:15 PM",
+                "Comment": "The heat from the flames is intense even from a distance!"
+            },
+            {
+                "Timestamp": "04:05 PM",
+                "Comment": "People are saying it started because of an electrical issue."
+            },
+            {
+                "Timestamp": "04:09 PM",
+                "Comment": "I heard the roof might collapse. This is really serious."
+            }
+        ]
+    },
+    {
+        "Report ID": "R149",
+        "User ID": "U303",
+        "Timestamp": "04:58 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Police have blocked off parts of Newell Drive. They're directing students away from the scene.",
+        "Comments": [
+            {
+                "Timestamp": "05:18 PM",
+                "Comment": "Some students left their bags and laptops inside. Everything might be destroyed."
+            }
+        ]
+    },
+    {
+        "Report ID": "R150",
+        "User ID": "U600",
+        "Timestamp": "04:19 PM",
+        "Location": "Marston Science Library, University of Florida",
+        "Coordinates": {
+            "Latitude": 29.649,
+            "Longitude": -82.3435
+        },
+        "Description": "Sprinklers are on inside, but it doesn\u2019t seem to be enough. Smoke is still billowing from the roof.",
+        "Comments": [
+            {
+                "Timestamp": "04:39 PM",
+                "Comment": "My friend was inside when it started, but they made it out."
+            }
+        ]
+    }
+]

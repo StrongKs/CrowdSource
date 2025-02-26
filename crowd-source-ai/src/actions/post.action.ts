@@ -9,6 +9,8 @@ export async function addDefaultPost() {
             data: {
                 author_name: "Jane Doe",
                 content: "This is a default post",
+                latitude: 0.0,
+                longitude: 0.0, 
             }
         });
         console.log("Default post created successfully", post);
@@ -24,6 +26,8 @@ export async function addPosts(author_name: string, content: string) {
             data: {
                 author_name: `${author_name}`,
                 content: `${content}`,
+                latitude: 0.0,
+                longitude: 0.0, 
             }
         });
         console.log("Post created successfully", post);
@@ -36,13 +40,28 @@ export async function addPosts(author_name: string, content: string) {
 // Not Tested
 export async function getPosts() {
     try {
-        const posts = await prisma.post.findMany();
-        console.log("Posts retrieved successfully", posts);
-        return posts;
+        console.log('bob');
+      const posts = await prisma.post.findMany({
+        orderBy: {
+          createdAt: 'desc'
+        },
+        take: 10 // Limit the number of posts fetched at once
+      });
+      return posts;
     } catch (error) {
-        console.error("Error in getPosts", error);
+      console.error("Error fetching posts:", error);
+      return [];
     }
-}
+  }
+// export async function getPosts() {
+//     try {
+//         const posts = await prisma.post.findMany();
+//         console.log("Posts retrieved successfully", posts);
+//         return posts;
+//     } catch (error) {
+//         console.error("Error in getPosts", error);
+//     }
+// }
 
 // Not Tested
 // export async function addComment(post_ID: number, author_name: string, content: string) {
