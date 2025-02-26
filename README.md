@@ -27,3 +27,11 @@ Crowd Source is a tool for communities to communicate with first responders in t
 - Jason Ang
 - Tiancheng Zhou
 - David Willis
+
+  ## Instructions for Testing
+
+  1. From https://github.com/StrongKs/CrowdSource/ click "Code" and then in the drop down select "Download Zip"
+  2. Unzip the Folder
+  3. Follow the Instructions from the "How to Run the App" section
+  4. Test All Functionality: Log a message and check if it shows up in the database
+  5. Note: Do not test in your IDE! Do it from the terminal to make sure that it works consistently on any machine.
