@@ -22,7 +22,7 @@
     "@radix-ui/react-label": "^2.1.1",
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.5",
-    "@uploadthing/react": "^7.1.5",
+    "@uploadthing/react": "^7.3.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "faker": "^5.5.3",
@@ -36,7 +36,7 @@
     "react-hot-toast": "^2.5.1",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7",
-    "uploadthing": "^7.4.4",
+    "uploadthing": "^7.5.2",
     "zod": "^3.24.1"
   },
   "devDependencies": {
