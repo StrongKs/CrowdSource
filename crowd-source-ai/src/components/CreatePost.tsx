@@ -19,13 +19,13 @@ function CreatePost() {
   const [showContactInfo, setShowContactInfo] = useState(false);
   const [contactInfo, setContactInfo] = useState("");
 
-  // 🔥 Function to post original content
+  // Function to post original content
   const handlePostOriginal = async () => {
     if (!content.trim() && !imageUrl) return;
 
     setIsPosting(true);
     try {
-      addPosts("author_name", content); // ✅ Posts original message
+      addPosts("author_name", content);
       console.log("Posted Original Content: " + content);
     } catch (error) {
       console.error("Failed to create post:", error);
@@ -34,13 +34,13 @@ function CreatePost() {
     }
   };
 
-  // 🔥 Function to post AI summary
+  // Function to post AI summary
   const handlePostSummary = async () => {
-    if (!summary.trim()) return; // ✅ Prevent posting empty summary
+    if (!summary.trim()) return; 
 
     setIsPosting(true);
     try {
-      addPosts("author_name", summary); // ✅ Posts AI-generated summary
+      addPosts("author_name", summary);
       console.log("Posted AI Summary: " + summary);
     } catch (error) {
       console.error("Failed to create post:", error);
@@ -49,13 +49,13 @@ function CreatePost() {
     }
   };
 
-  // 🔥 Function to generate AI summary
+  // Function to generate AI summary
   const handleSummarize = async () => {
     if (!content.trim()) return;
     
     setLoadingSummary(true);
     try {
-      const summaryResult = await OllamaSummarizerFunction(content); // ✅ Calls AI function
+      const summaryResult = await OllamaSummarizerFunction(content);
       setSummary(summaryResult); 
     } catch (error) {
       console.error("Error generating summary:", error);
@@ -91,7 +91,6 @@ function CreatePost() {
             </div>
           )}
 
-          {/* 🔥 Display AI-generated summary */}
           {summary && (
             <div className="p-3 bg-gray-100 border rounded-md">
               <h3 className="font-semibold text-gray-700">AI Summary:</h3>
@@ -146,9 +145,7 @@ function CreatePost() {
               </Button>
             </div>
 
-            {/* 🔥 Two Post Buttons */}
             <div className="flex flex-col space-y-2 w-full">
-              {/* ✅ Post Original Content */}
               <Button
                 className="flex items-center text-sm px-3 py-1 w-full"
                 onClick={handlePostOriginal}
@@ -167,11 +164,10 @@ function CreatePost() {
                 )}
               </Button>
 
-              {/* ✅ Post AI Summary (Only enabled if a summary exists) */}
               <Button
                 className="flex items-center text-sm px-3 py-1 w-full"
                 onClick={handlePostSummary}
-                disabled={!summary.trim() || isPosting} // ✅ Only works if summary exists
+                disabled={!summary.trim() || isPosting}
               >
                 {isPosting ? (
                   <>

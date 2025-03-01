@@ -8,27 +8,25 @@ export const OllamaSummarizerFunction = async (message: string): Promise<string>
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        model: "deepseek-r1:1.5b", // ✅ Using DeepSeek model
+        model: "deepseek-r1:1.5b", 
         prompt: prompt,
         temperature: 0,
-        stream: false, // Ensure a single JSON response
+        stream: false,
       }),
     });
 
     const rawText = await response.text();
     console.log("Raw API Response:", rawText);
 
-    // Extract JSON response if there are multiple JSON objects
     const jsonMatches = rawText.match(/\{[^}]+\}/g);
     if (!jsonMatches) {
       return "Error: No valid JSON found in response.";
     }
 
     try {
-      const lastJsonObject = JSON.parse(jsonMatches[jsonMatches.length - 1]); // Parse last JSON object
+      const lastJsonObject = JSON.parse(jsonMatches[jsonMatches.length - 1]);
       let summary = lastJsonObject.response || "No response received from Ollama.";
 
-      // 🔥 Remove any <think> ... </think> text if present
       summary = summary.replace(/<think>[\s\S]*?<\/think>/g, "").trim();
 
       return summary;
