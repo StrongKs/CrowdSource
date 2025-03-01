@@ -1,53 +1,67 @@
 "use client";
 
-// import { useUser } from "@clerk/nextjs";
 import { useState } from "react";
 import { Card, CardContent } from "./ui/card";
-// import { Avatar, AvatarImage } from "./ui/avatar";
 import { Textarea } from "./ui/textarea";
-import { ImageIcon, Loader2Icon, SendIcon, PhoneIcon } from "lucide-react";
+import { ImageIcon, Loader2Icon, SendIcon, PhoneIcon, SparklesIcon } from "lucide-react";
 import { Button } from "./ui/button";
-// import { createPost } from "@/actions/post.action";
-// import toast from "react-hot-toast";
 import ImageUpload from "./ImageUpload";
-import { addDefaultPost, addPosts } from "@/actions/post.action";
+import { addPosts } from "@/actions/post.action";
+import { OllamaSummarizerFunction } from "./OllamaSummarizerFunc"; // ✅ Import AI function
 
 function CreatePost() {
-//   const { user } = useUser();
   const [content, setContent] = useState("");
   const [imageUrl, setImageUrl] = useState("");
   const [isPosting, setIsPosting] = useState(false);
+  const [summary, setSummary] = useState(""); 
+  const [loadingSummary, setLoadingSummary] = useState(false);
   const [showImageUpload, setShowImageUpload] = useState(false);
-  //For determining if the contact info input box is visible
   const [showContactInfo, setShowContactInfo] = useState(false);
-  //Variable containing the user inputted contact info
   const [contactInfo, setContactInfo] = useState("");
 
-  const handleSubmit = async () => {
+  // 🔥 Function to post original content
+  const handlePostOriginal = async () => {
     if (!content.trim() && !imageUrl) return;
 
     setIsPosting(true);
     try {
-      //Uncomment the contactInfo when connecting to the backend
-      addPosts("author_name", content/*, contactInfo*/); // we need to create UI for author_name
-      console.log("Content " + content);
-      console.log("Contact Info: " + contactInfo);
-      console.log("Post created successfully with content but not actual author name");
-      // const result = await createPost(content, imageUrl);
-      // if (result?.success) {
-      //   // reset the form
-      //   setContent("");
-      //   setImageUrl("");
-      //   setShowImageUpload(false);
-
-      //   toast.success("Post created successfully");
-      // }
+      addPosts("author_name", content); // ✅ Posts original message
+      console.log("Posted Original Content: " + content);
     } catch (error) {
       console.error("Failed to create post:", error);
-      // toast.error("Failed to create post");
     } finally {
       setIsPosting(false);
     }
+  };
+
+  // 🔥 Function to post AI summary
+  const handlePostSummary = async () => {
+    if (!summary.trim()) return; // ✅ Prevent posting empty summary
+
+    setIsPosting(true);
+    try {
+      addPosts("author_name", summary); // ✅ Posts AI-generated summary
+      console.log("Posted AI Summary: " + summary);
+    } catch (error) {
+      console.error("Failed to create post:", error);
+    } finally {
+      setIsPosting(false);
+    }
+  };
+
+  // 🔥 Function to generate AI summary
+  const handleSummarize = async () => {
+    if (!content.trim()) return;
+    
+    setLoadingSummary(true);
+    try {
+      const summaryResult = await OllamaSummarizerFunction(content); // ✅ Calls AI function
+      setSummary(summaryResult); 
+    } catch (error) {
+      console.error("Error generating summary:", error);
+      setSummary("Error generating summary.");
+    }
+    setLoadingSummary(false);
   };
 
   return (
@@ -55,9 +69,6 @@ function CreatePost() {
       <CardContent className="pt-6">
         <div className="space-y-4">
           <div className="flex space-x-4">
-            {/* <Avatar className="w-10 h-10">
-              <AvatarImage src={user?.imageUrl || "/avatar.png"} />
-            </Avatar> */}
             <Textarea
               placeholder="What's on your mind?"
               className="min-h-[100px] resize-none border-none focus-visible:ring-0 p-0 text-base"
@@ -79,37 +90,15 @@ function CreatePost() {
               />
             </div>
           )}
-          {showContactInfo && (
-            <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
-              <div className="bg-transparent rounded-lg p-4 w-96">
-                <h2 className="text-lg font-bold mb-2">Add Contact Info</h2>
-                <input
-                  type="text"
-                  placeholder="Enter your contact info"
-                  value={contactInfo}
-                  onChange={(e) => setContactInfo(e.target.value)}
-                  className="w-full p-2 border border-gray-400 rounded-lg"
-                />
-                <div className="flex justify-end mt-2">
-                  <button
-                    className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg"
-                    onClick={() => setShowContactInfo(false)}
-                  >
-                    Cancel
-                  </button>
-                  <button
-                    className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg ml-2"
-                    onClick={() => {
-                      // You can add a function here to handle the contact info submission
-                      setShowContactInfo(false);
-                    }}
-                  >
-                    Save
-                  </button>
-                </div>
-              </div>
+
+          {/* 🔥 Display AI-generated summary */}
+          {summary && (
+            <div className="p-3 bg-gray-100 border rounded-md">
+              <h3 className="font-semibold text-gray-700">AI Summary:</h3>
+              <p className="text-gray-600">{summary}</p>
             </div>
           )}
+
           <div className="flex items-center justify-between border-t pt-4">
             <div className="flex space-x-2">
               <Button
@@ -134,28 +123,74 @@ function CreatePost() {
                 <PhoneIcon className="size-4 mr-2" />
                 Contact Info
               </Button>
+              {/* 🔥 AI Summarization Button */}
+              <Button
+                type="button"
+                variant="ghost"
+                size="sm"
+                className="text-muted-foreground hover:text-primary"
+                onClick={handleSummarize}
+                disabled={loadingSummary || isPosting}
+              >
+                {loadingSummary ? (
+                  <>
+                    <Loader2Icon className="size-4 mr-2 animate-spin" />
+                    Summarizing...
+                  </>
+                ) : (
+                  <>
+                    <SparklesIcon className="size-4 mr-2" />
+                    Summarize
+                  </>
+                )}
+              </Button>
             </div>
-            <Button
-              className="flex items-center"
-              onClick={handleSubmit}
-              disabled={(!content.trim() && !imageUrl) || isPosting}
-            >
-              {isPosting ? (
-                <>
-                  <Loader2Icon className="size-4 mr-2 animate-spin" />
-                  Posting...
-                </>
-              ) : (
-                <>
-                  <SendIcon className="size-4 mr-2" />
-                  Post
-                </>
-              )}
-            </Button>
+
+            {/* 🔥 Two Post Buttons */}
+            <div className="flex flex-col space-y-2 w-full">
+              {/* ✅ Post Original Content */}
+              <Button
+                className="flex items-center text-sm px-3 py-1 w-full"
+                onClick={handlePostOriginal}
+                disabled={(!content.trim() && !imageUrl) || isPosting}
+              >
+                {isPosting ? (
+                  <>
+                    <Loader2Icon className="size-4 mr-2 animate-spin" />
+                    Posting...
+                  </>
+                ) : (
+                  <>
+                    <SendIcon className="size-4 mr-2" />
+                    Post Original
+                  </>
+                )}
+              </Button>
+
+              {/* ✅ Post AI Summary (Only enabled if a summary exists) */}
+              <Button
+                className="flex items-center text-sm px-3 py-1 w-full"
+                onClick={handlePostSummary}
+                disabled={!summary.trim() || isPosting} // ✅ Only works if summary exists
+              >
+                {isPosting ? (
+                  <>
+                    <Loader2Icon className="size-4 mr-2 animate-spin" />
+                    Posting...
+                  </>
+                ) : (
+                  <>
+                    <SendIcon className="size-4 mr-1" />
+                    Post Summary
+                  </>
+                )}
+              </Button>
+            </div>
           </div>
         </div>
       </CardContent>
     </Card>
   );
 }
+
 export default CreatePost;
