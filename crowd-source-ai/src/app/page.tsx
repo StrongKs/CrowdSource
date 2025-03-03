@@ -4,6 +4,7 @@ import CreatePost from "@/components/CreatePost";
 // import PostCard from "@/components/PostCard";
 // import WhoToFollow from "@/components/WhoToFollow";
 // import { currentUser } from "@clerk/nextjs/server";
+import ScrollingFeed from '@/components/ScrollingFeed';
 
 export default async function Home() {
   // const user = await currentUser();
@@ -20,6 +21,8 @@ export default async function Home() {
             <PostCard key={post.id} post={post} dbUserId={dbUserId} />
           ))}
         </div> */}
+                <ScrollingFeed />
+
       </div>
 
       <div className="hidden lg:block lg:col-span-4 sticky top-20">
