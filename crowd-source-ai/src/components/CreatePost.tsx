@@ -64,6 +64,8 @@ function CreatePost() {
               value={content}
               onChange={(e) => setContent(e.target.value)}
               disabled={isPosting}
+              data-testid="post-textarea" // ✅ Add test ID
+
             />
           </div>
 
@@ -80,7 +82,7 @@ function CreatePost() {
             </div>
           )}
           {showContactInfo && (
-            <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+            <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center"     data-testid="contact-info-modal">
               <div className="bg-transparent rounded-lg p-4 w-96">
                 <h2 className="text-lg font-bold mb-2">Add Contact Info</h2>
                 <input
@@ -89,11 +91,15 @@ function CreatePost() {
                   value={contactInfo}
                   onChange={(e) => setContactInfo(e.target.value)}
                   className="w-full p-2 border border-gray-400 rounded-lg"
+                  data-testid="contact-info-input" // ✅ Add test ID
+
                 />
                 <div className="flex justify-end mt-2">
                   <button
                     className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg"
                     onClick={() => setShowContactInfo(false)}
+                    data-testid="cancel-button" // ✅ Add test ID
+
                   >
                     Cancel
                   </button>
@@ -103,6 +109,9 @@ function CreatePost() {
                       // You can add a function here to handle the contact info submission
                       setShowContactInfo(false);
                     }}
+
+                    data-testid="save-button" // ✅ Add test ID
+
                   >
                     Save
                   </button>
@@ -130,6 +139,8 @@ function CreatePost() {
                 className="text-muted-foreground hover:text-primary"
                 onClick={() => setShowContactInfo(!showContactInfo)}
                 disabled={isPosting}
+                data-testid="contact-info-button" // ✅ Add test ID
+
               >
                 <PhoneIcon className="size-4 mr-2" />
                 Contact Info
@@ -139,6 +150,8 @@ function CreatePost() {
               className="flex items-center"
               onClick={handleSubmit}
               disabled={(!content.trim() && !imageUrl) || isPosting}
+              data-testid="post-button" // ✅ Add test ID
+
             >
               {isPosting ? (
                 <>

@@ -35,7 +35,7 @@ const ScrollingFeed: React.FC = () => {
     <div className="h-screen overflow-y-auto p-4">
       <h2 className="text-white text-2xl mb-4">Recent Posts</h2>
       {isLoading ? (
-        <p className="text-gray-400">Loading...</p>
+        <p className="text-gray-400" data-testid="loading-text">Loading...</p>
       ) : (
         posts.map((post) => (
           <div key={post.id} className="bg-gray-800 text-white p-4 rounded-lg mb-4 shadow-md">
