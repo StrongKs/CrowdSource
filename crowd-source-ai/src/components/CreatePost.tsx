@@ -58,6 +58,8 @@ function CreatePost() {
               value={content}
               onChange={(e) => setContent(e.target.value)}
               disabled={isPosting}
+              data-testid="post-textarea" // ✅ Add test ID
+
             />
           </div>
 
@@ -92,6 +94,8 @@ function CreatePost() {
               className="flex items-center"
               onClick={handleSubmit}
               disabled={(!content.trim() && !imageUrl) || isPosting}
+              data-testid="post-button" // ✅ Add test ID
+
             >
               {isPosting ? (
                 <>
