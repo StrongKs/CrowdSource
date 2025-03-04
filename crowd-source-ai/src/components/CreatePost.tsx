@@ -150,6 +150,7 @@ function CreatePost() {
                 className="flex items-center text-sm px-3 py-1 w-full"
                 onClick={handlePostOriginal}
                 disabled={(!content.trim() && !imageUrl) || isPosting}
+                data-testid="post-original-btn"
               >
                 {isPosting ? (
                   <>
@@ -168,6 +169,7 @@ function CreatePost() {
                 className="flex items-center text-sm px-3 py-1 w-full"
                 onClick={handlePostSummary}
                 disabled={!summary.trim() || isPosting}
+                data-testid="post-summary-btn"
               >
                 {isPosting ? (
                   <>
