@@ -1,5 +1,51 @@
 # | | | C R O W D S O U R C E | | | 
 
+## Issue Templates
+Please, copy and paste the appropriate template below and complete all fields for each issue you write.
+
+### Issue Template for Feature Requests:
+
+#### Summary  
+Briefly describe the feature and its purpose.  
+
+#### Motivation  
+Explain why this feature is needed. What problem does it solve? How will it improve the project?  
+
+#### Proposed Solution  
+Describe how the feature should work. Include details on UI changes, API endpoints, and other relevant implementation details.  
+
+#### Requirements  
+- [ ] List specific functionalities that need to be implemented  
+- [ ] Define any UI components, backend changes, or database updates needed  
+- [ ] Mention any dependencies or prerequisites  
+
+#### Acceptance Criteria  
+Define what must be completed for the feature to be considered "done." Example:  
+- [ ] Users can add events to their personal calendar  
+- [ ] The API correctly stores and retrieves event data  
+- [ ] The UI updates dynamically when a new event is added  
+
+#### Additional Notes
+Mention any concerns, edge cases, or related issues. (Optional)
+
+
+### Issue Template for Bugs:
+#### Summary  
+Briefly describe the problem.  
+
+#### Steps to Reproduce (if applicable)  
+Include the steps to trigger the issue.  
+
+#### Expected Behavior  
+Explain what the correct outcome should be.  
+
+#### Actual Behavior (if applicable)  
+Describe what is currently happening instead.  
+
+#### Additional Notes  
+Include screenshots, logs, or links to relevant discussions.  
+
+
 ## How to Run The App
 First, add the environment variable:
 
@@ -28,10 +74,10 @@ Crowd Source is a tool for communities to communicate with first responders in t
 - Tiancheng Zhou
 - David Willis
 
-  ## Instructions for Testing
+## Instructions for Testing
 
-  1. From https://github.com/StrongKs/CrowdSource/ click "Code" and then in the drop down select "Download Zip"
-  2. Unzip the Folder
-  3. Follow the Instructions from the "How to Run the App" section
-  4. Test All Functionality: Log a message and check if it shows up in the database
-  5. Note: Do not test in your IDE! Do it from the terminal to make sure that it works consistently on any machine.
+1. From https://github.com/StrongKs/CrowdSource/ click "Code" and then in the drop down select "Download Zip"
+2. Unzip the Folder
+3. Follow the Instructions from the "How to Run the App" section
+4. Test All Functionality: Log a message and check if it shows up in the database
+5. Note: Do not test in your IDE! Do it from the terminal to make sure that it works consistently on any machine.
