@@ -36,11 +36,8 @@ export async function addPosts(author_name: string, content: string) {
     }
 }
 
-
-// Not Tested
 export async function getPosts() {
     try {
-        console.log('bob');
       const posts = await prisma.post.findMany({
         orderBy: {
           createdAt: 'desc'
@@ -53,6 +50,7 @@ export async function getPosts() {
       return [];
     }
   }
+
 // export async function getPosts() {
 //     try {
 //         const posts = await prisma.post.findMany();

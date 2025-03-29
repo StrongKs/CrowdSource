@@ -25,8 +25,12 @@ function CreatePost() {
 
     setIsPosting(true);
     try {
-      addPosts("author_name", content);
+      await addPosts("author_name", content);
       console.log("Posted Original Content: " + content);
+      // Clear input and image
+      setContent("");
+      setImageUrl("");
+      setSummary(""); // Clear summary just in case
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
@@ -40,8 +44,12 @@ function CreatePost() {
 
     setIsPosting(true);
     try {
-      addPosts("author_name", summary);
+      await addPosts("author_name", summary);
       console.log("Posted AI Summary: " + summary);
+      // Clear input and summary
+      setSummary("");
+      setContent("");
+      setImageUrl("");
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
