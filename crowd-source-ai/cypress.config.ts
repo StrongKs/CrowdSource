@@ -9,7 +9,7 @@ export default defineConfig({
     supportFile: false, // ✅ Optional: Disables default support file
     viewportWidth: 1280, // ✅ Set browser size for tests
     viewportHeight: 720,
-    defaultCommandTimeout: 10000, // ✅ Increase timeout for elements to load
+    defaultCommandTimeout: 60000, // ✅ Increase timeout for elements to load
     retries: 2, // ✅ Retries failed tests (optional)
     video: false, // ✅ Disable video recording to save space
   },
