@@ -69,12 +69,12 @@ function CreatePost() {
       console.log(
         "Post created successfully with content but not actual author name"
       );
-      // if (res?.sucess) {
-      //   // reset the form
-      //   setContent("");
-      //   setImageUrl("");
-      //   setShowImageUpload(false);
-      // }
+      if (res?.sucess) {
+        // reset the form
+        setContent("");
+        setImageUrl("");
+        setShowImageUpload(false);
+      }
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
