@@ -20,7 +20,7 @@ export async function addDefaultPost() {
 }
 
 // Not tested
-export async function addPosts(author_name: string, content: string) {
+export async function addPosts(author_name: string, content: string,  imageUrl?: string) {
   try {
     const post = await prisma.post.create({
       data: {
@@ -28,6 +28,8 @@ export async function addPosts(author_name: string, content: string) {
         content: `${content}`,
         latitude: 0.0,
         longitude: 0.0,
+        image : imageUrl
+        
       },
     });
     console.log("Post created successfully", post);
@@ -41,7 +43,8 @@ export async function addPostsW_Coordinates(
   author_name: string,
   content: string,
   _latitude: number,
-  _longitude: number
+  _longitude: number,
+  imageUrl?: string
 ) {
   try {
     const post = await prisma.post.create({
@@ -50,9 +53,12 @@ export async function addPostsW_Coordinates(
         content: `${content}`,
         latitude: _latitude,
         longitude: _longitude,
+        image: imageUrl
+
       },
     });
     console.log("Post created successfully", post);
+    return {sucess: true};
   } catch (error) {
     console.error("Error in addPosts", error);
   }

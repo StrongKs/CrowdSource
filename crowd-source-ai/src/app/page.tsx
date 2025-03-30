@@ -1,3 +1,5 @@
+"use client";
+
 // import { getPosts } from "@/actions/post.action";
 // import { getDbUserId } from "@/actions/user.action";
 import CreatePost from "@/components/CreatePost";
@@ -5,6 +7,7 @@ import CreatePost from "@/components/CreatePost";
 // import WhoToFollow from "@/components/WhoToFollow";
 // import { currentUser } from "@clerk/nextjs/server";
 import ScrollingFeed from "@/components/ScrollingFeed";
+import { UploadButton, UploadDropzone } from "@/lib/uploadthing";
 
 export default async function Home() {
   // const user = await currentUser();
@@ -23,6 +26,7 @@ export default async function Home() {
         </div> */}
         <ScrollingFeed />
       </div>
+  
 
       <div className="hidden lg:block lg:col-span-4 sticky top-20">
         {/* <WhoToFollow /> */}

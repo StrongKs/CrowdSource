@@ -11,6 +11,7 @@ import {
   MapPinIcon,
 } from "lucide-react";
 import { Button } from "./ui/button";
+
 import ImageUpload from "./ImageUpload";
 import { addPostsW_Coordinates } from "@/actions/post.action";
 
@@ -51,21 +52,29 @@ function CreatePost() {
 
   const handleSubmit = async () => {
     if (!content.trim() && !imageUrl) return;
-
     setIsPosting(true);
     try {
-      addPostsW_Coordinates(
+      const res = await addPostsW_Coordinates(
         "author_name",
         content,
         location.latitude ?? 0,
-        location.longitude ?? 0
+        location.longitude ?? 0,
+        imageUrl ?? ""
       );
+
       console.log("Content:", content);
       console.log("Contact Info:", contactInfo);
       console.log("Location:", location);
+      console.log("image:",imageUrl )
       console.log(
         "Post created successfully with content but not actual author name"
       );
+      // if (res?.sucess) {
+      //   // reset the form
+      //   setContent("");
+      //   setImageUrl("");
+      //   setShowImageUpload(false);
+      // }
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
@@ -97,7 +106,7 @@ function CreatePost() {
               disabled={isPosting}
             />
           </div>
-
+      
           {(showImageUpload || imageUrl) && (
             <div className="border rounded-lg p-4">
               <ImageUpload
