@@ -14,7 +14,7 @@ import {
 import { Button } from "./ui/button";
 import ImageUpload from "./ImageUpload";
 import { addPostsW_Coordinates } from "@/actions/post.action";
-import { OllamaSummarizerFunction } from "./OllamaSummarizerFunc"; // ✅ Import AI function
+import { OllamaSummarizerFunction } from "./OllamaSummarizerFunc";
 
 function CreatePost() {
   const [content, setContent] = useState("");
@@ -36,23 +36,34 @@ function CreatePost() {
   const [manualLatitude, setManualLatitude] = useState("");
   const [manualLongitude, setManualLongitude] = useState("");
 
-  // Get user's location using geolocation
+  // Automatically detect user's location using geolocation
   useEffect(() => {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
           const { latitude, longitude } = position.coords;
           setLocation({ latitude, longitude });
+          console.log(`Detected Location: Latitude ${latitude}, Longitude ${longitude}`);
         },
         (error) => {
           console.error("Error getting location:", error);
           setLocation({ latitude: null, longitude: null });
         }
       );
-    } else {
-      setLocation({ latitude: null, longitude: null });
     }
   }, []);
+
+  // Function to save manual location
+  const handleSaveManualLocation = () => {
+    const lat = parseFloat(manualLatitude);
+    const lng = parseFloat(manualLongitude);
+    if (!isNaN(lat) && !isNaN(lng)) {
+      setLocation({ latitude: lat, longitude: lng });
+      setShowManualLocation(false);
+    } else {
+      alert("Please enter valid coordinates.");
+    }
+  };
 
   // Function to post original content
   const handlePostOriginal = async () => {
@@ -67,7 +78,6 @@ function CreatePost() {
         location.longitude ?? 0
       );
       console.log("Posted Original Content: " + content);
-      // Clear input and image
       setContent("");
       setImageUrl("");
       setSummary("");
@@ -116,18 +126,6 @@ function CreatePost() {
     setLoadingSummary(false);
   };
 
-  // Function to save manual location
-  const handleSaveManualLocation = () => {
-    const lat = parseFloat(manualLatitude);
-    const lng = parseFloat(manualLongitude);
-    if (!isNaN(lat) && !isNaN(lng)) {
-      setLocation({ latitude: lat, longitude: lng });
-      setShowManualLocation(false);
-    } else {
-      alert("Please enter valid coordinates.");
-    }
-  };
-
   return (
     <Card className="mb-6">
       <CardContent className="pt-6">
@@ -163,38 +161,62 @@ function CreatePost() {
             </div>
           )}
 
+          {/* Display Detected Location */}
+          <p className="text-sm text-gray-500">
+            📍 Current Location: 
+            {location.latitude !== null && location.longitude !== null
+              ? ` Latitude: ${location.latitude}, Longitude: ${location.longitude}`
+              : " Unable to detect location"}
+          </p>
+
+          {/* Manual Location Input */}
+          {showManualLocation && (
+            <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+              <div className="bg-white rounded-lg p-4 w-96">
+                <h2 className="text-lg font-bold mb-2">Enter Coordinates</h2>
+                <input
+                  type="text"
+                  placeholder="Latitude"
+                  value={manualLatitude}
+                  onChange={(e) => setManualLatitude(e.target.value)}
+                  className="w-full p-2 mb-2 border border-gray-400 rounded-lg"
+                />
+                <input
+                  type="text"
+                  placeholder="Longitude"
+                  value={manualLongitude}
+                  onChange={(e) => setManualLongitude(e.target.value)}
+                  className="w-full p-2 mb-2 border border-gray-400 rounded-lg"
+                />
+                <div className="flex justify-end mt-2">
+                  <Button onClick={() => setShowManualLocation(false)}>Cancel</Button>
+                  <Button onClick={handleSaveManualLocation} className="ml-2">Save</Button>
+                </div>
+              </div>
+            </div>
+          )}
+
           {/* Action Buttons */}
           <div className="flex items-center justify-between border-t pt-4">
-            <div className="flex space-x-2">
-              <Button onClick={() => setShowImageUpload(!showImageUpload)}>
-                <ImageIcon className="size-4 mr-2" /> Photo
-              </Button>
-              <Button onClick={() => setShowContactInfo(!showContactInfo)}>
-                <PhoneIcon className="size-4 mr-2" /> Contact Info
-              </Button>
-              <Button onClick={handleSummarize} disabled={loadingSummary || isPosting}>
-                {loadingSummary ? (
-                  <>
-                    <Loader2Icon className="size-4 mr-2 animate-spin" />
-                    Summarizing...
-                  </>
-                ) : (
-                  <>
-                    <SparklesIcon className="size-4 mr-2" />
-                    Summarize
-                  </>
-                )}
-              </Button>
-            </div>
+            <Button onClick={() => setShowImageUpload(!showImageUpload)}>
+              <ImageIcon className="size-4 mr-2" /> Photo
+            </Button>
+            <Button onClick={() => setShowManualLocation(true)}>
+              <MapPinIcon className="size-4 mr-2" /> Edit Location
+            </Button>
+            <Button onClick={handleSummarize} disabled={loadingSummary || isPosting}>
+              {loadingSummary ? "Summarizing..." : "Summarize"}
+            </Button>
+          </div>
 
-            <div className="flex flex-col space-y-2 w-full">
-              <Button onClick={handlePostOriginal} disabled={(!content.trim() && !imageUrl) || isPosting}>
-                {isPosting ? "Posting..." : "Post Original"}
-              </Button>
-              <Button onClick={handlePostSummary} disabled={!summary.trim() || isPosting}>
-                {isPosting ? "Posting..." : "Post Summary"}
-              </Button>
-            </div>
+          {/* Post Buttons */}
+          <div className="flex flex-col space-y-2 w-full">
+            <Button onClick={handlePostOriginal} disabled={(!content.trim() && !imageUrl) || isPosting}>
+              {isPosting ? "Posting..." : "Post Original"}
+            </Button>
+            <Button onClick={handlePostSummary} disabled={!summary.trim() || isPosting}>
+              {isPosting ? "Posting..." : "Post Summary"}
+            </Button>
           </div>
         </div>
       </CardContent>
