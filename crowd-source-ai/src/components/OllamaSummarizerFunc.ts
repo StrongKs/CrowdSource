@@ -11,8 +11,8 @@ export const OllamaSummarizerFunction = async (post: Post): Promise<string> => {
   Here are the details of the post:
   - **Author:** ${post.author_name}
   - **Content:** ${post.content || "No content available"}
-  - **Latitude:** ${post.latitude}
-  - **Longitude:** ${post.longitude}
+  - **Author's Latitude:** ${post.latitude}
+  - **Author's Longitude:** ${post.longitude}
   - **Created At:** ${new Date(post.createdAt).toLocaleString()}
   - **Updated At:** ${new Date(post.updatedAt).toLocaleString()}
 
