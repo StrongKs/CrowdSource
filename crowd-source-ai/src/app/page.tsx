@@ -1,18 +1,32 @@
-'use client';
+// import { getPosts } from "@/actions/post.action";
+// import { getDbUserId } from "@/actions/user.action";
+import CreatePost from "@/components/CreatePost";
+// import PostCard from "@/components/PostCard";
+// import WhoToFollow from "@/components/WhoToFollow";
+// import { currentUser } from "@clerk/nextjs/server";
+import ScrollingFeed from "@/components/ScrollingFeed";
 
-import { useState } from 'react';
-import CreatePost from '@/components/CreatePost';
-import ScrollingFeed from '@/components/ScrollingFeed';
-
-export default function Home() {
+export default async function Home() {
+  // const user = await currentUser();
+  // const posts = await getPosts();
+  // const dbUserId = await getDbUserId();
 
   return (
-    <div className="flex min-h-screen">
-
-      {/* Main content area */}
-      <div className="flex-1 p-4">
+    <div className="grid grid-cols-1 lg:grid-cols-10 gap-6">
+      <div className="lg:col-span-6">
+        {/* {user ? <CreatePost /> : null} */}
         <CreatePost />
+        {/* <div className="space-y-6">
+          {posts.map((post) => (
+            <PostCard key={post.id} post={post} dbUserId={dbUserId} />
+          ))}
+        </div> */}
         <ScrollingFeed />
+      </div>
+
+      <div className="hidden lg:block lg:col-span-4 sticky top-20">
+        {/* <WhoToFollow /> */}
+        Another possible side bar
       </div>
     </div>
   );
