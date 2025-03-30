@@ -36,20 +36,47 @@ export async function addPosts(author_name: string, content: string) {
     }
 }
 
-export async function getPosts() {
+// export async function getPosts() {
+//   try {
+//     const posts = await prisma.post.findMany({
+//       orderBy: {
+//         createdAt: 'desc'
+//       },
+//       take: 10 // Limit the number of posts fetched at once
+//     });
+//     return posts;
+//   } catch (error) {
+//     console.error("Error fetching posts:", error);
+//     return [];
+//   }
+// }
+
+
+export interface Post {
+    id: string;
+    author_name: string;
+    content: string | null;
+    image: string | null;
+    latitude: number;
+    longitude: number;
+    createdAt: Date;
+    updatedAt: Date;
+  }
+
+  export async function getPosts(): Promise<Post[]> {
     try {
       const posts = await prisma.post.findMany({
         orderBy: {
           createdAt: 'desc'
         },
-        take: 10 // Limit the number of posts fetched at once
+        take: 10
       });
       return posts;
     } catch (error) {
       console.error("Error fetching posts:", error);
       return [];
     }
-  }
+  }  
 
 // export async function getPosts() {
 //     try {
