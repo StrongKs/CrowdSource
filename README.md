@@ -50,6 +50,7 @@ Include screenshots, logs, or links to relevant discussions.
 First, add the environment variable:
 
 Create new file ".env" in crowd-source-ai folder
+    Note: The .env file must have both the database url and the UploadThing token
 
 Paste the DATABASE_URL key into the .env file
 
