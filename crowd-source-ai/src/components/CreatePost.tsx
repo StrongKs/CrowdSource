@@ -59,7 +59,8 @@ function CreatePost() {
         content,
         location.latitude ?? 0,
         location.longitude ?? 0,
-        imageUrl ?? ""
+        imageUrl ?? "",
+        contactInfo
       );
 
       console.log("Content:", content);

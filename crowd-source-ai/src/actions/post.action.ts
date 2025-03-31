@@ -44,7 +44,8 @@ export async function addPostsW_Coordinates(
   content: string,
   _latitude: number,
   _longitude: number,
-  imageUrl?: string
+  imageUrl?: string,
+  contactInfo?: string
 ) {
   try {
     const post = await prisma.post.create({
@@ -53,7 +54,8 @@ export async function addPostsW_Coordinates(
         content: `${content}`,
         latitude: _latitude,
         longitude: _longitude,
-        image: imageUrl
+        image: imageUrl,
+        contact: contactInfo
 
       },
     });
