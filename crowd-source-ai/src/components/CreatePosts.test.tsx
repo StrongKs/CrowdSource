@@ -1,24 +1,6 @@
-import { render, screen, fireEvent } from "@testing-library/react";
-import "@testing-library/jest-dom";
+import React from "react"; // ✅ Add this line
+import { render, screen, fireEvent, waitFor } from "@testing-library/react";
 import CreatePost from "@/components/CreatePost";
-
-// Mocking navigator.geolocation
-beforeAll(() => {
-  const mockGeolocation = {
-    getCurrentPosition: jest.fn().mockImplementationOnce((success) =>
-      Promise.resolve(
-        success({
-          coords: {
-            latitude: 29.65,
-            longitude: -82.34,
-          },
-        })
-      )
-    ),
-  };
-  // @ts-ignore
-  global.navigator.geolocation = mockGeolocation;
-});
 
 describe("CreatePost Component", () => {
   it("renders the text area", () => {
