@@ -47,9 +47,12 @@ Include screenshots, logs, or links to relevant discussions.
 
 
 ## How to Run The App
+Make sure Ollama is downloaded: https://ollama.com/download
+
 First, add the environment variable:
 
 Create new file ".env" in crowd-source-ai folder
+    Note: The .env file must have both the database url and the UploadThing token
 
 Paste the DATABASE_URL key into the .env file
 
@@ -60,6 +63,10 @@ From the Root Directory, run these commands:
 cd .\crowd-source-ai
 
 npm install
+
+ollama serve
+
+ollama pull deepseek-r1:1.5b (or other models you want to pull)
 
 npm run dev
 

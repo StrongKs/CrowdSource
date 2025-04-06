@@ -12,6 +12,7 @@ import {
   SparklesIcon
 } from "lucide-react";
 import { Button } from "./ui/button";
+
 import ImageUpload from "./ImageUpload";
 import { addPostsW_Coordinates } from "@/actions/post.action";
 import { OllamaSummarizerFunction } from "./OllamaSummarizerFunc";
@@ -36,7 +37,6 @@ function CreatePost() {
   const [manualLatitude, setManualLatitude] = useState("");
   const [manualLongitude, setManualLongitude] = useState("");
 
-  // Automatically detect user's location using geolocation
   useEffect(() => {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
@@ -53,7 +53,6 @@ function CreatePost() {
     }
   }, []);
 
-  // Function to save manual location
   const handleSaveManualLocation = () => {
     const lat = parseFloat(manualLatitude);
     const lng = parseFloat(manualLongitude);
@@ -65,22 +64,31 @@ function CreatePost() {
     }
   };
 
-  // Function to post original content
   const handlePostOriginal = async () => {
     if (!content.trim() && !imageUrl) return;
-
     setIsPosting(true);
     try {
-      await addPostsW_Coordinates(
+      const res = await addPostsW_Coordinates(
         "author_name",
         content,
         location.latitude ?? 0,
-        location.longitude ?? 0
+        location.longitude ?? 0,
+        imageUrl ?? "",
+        contactInfo
       );
-      console.log("Posted Original Content: " + content);
-      setContent("");
-      setImageUrl("");
-      setSummary("");
+
+      console.log("Content:", content);
+      console.log("Contact Info:", contactInfo);
+      console.log("Location:", location);
+      console.log("Image:", imageUrl);
+      console.log("Post created successfully with content but not actual author name");
+
+      if (res?.success) {
+        setContent("");
+        setImageUrl("");
+        setShowImageUpload(false);
+        setSummary("");
+      }
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
@@ -88,10 +96,8 @@ function CreatePost() {
     }
   };
 
-  // Function to post AI-generated summary
   const handlePostSummary = async () => {
     if (!summary.trim()) return;
-
     setIsPosting(true);
     try {
       await addPostsW_Coordinates(
@@ -111,10 +117,8 @@ function CreatePost() {
     }
   };
 
-  // Function to generate AI summary
   const handleSummarize = async () => {
     if (!content.trim()) return;
-
     setLoadingSummary(true);
     try {
       const summaryResult = await OllamaSummarizerFunction(content);
@@ -130,16 +134,14 @@ function CreatePost() {
     <Card className="mb-6">
       <CardContent className="pt-6">
         <div className="space-y-4">
-          {/* Text Input */}
           <Textarea
-            placeholder="What's on your mind?"
+            placeholder="What's happening near you?"
             className="min-h-[100px] resize-none border-none focus-visible:ring-0 p-0 text-base"
             value={content}
             onChange={(e) => setContent(e.target.value)}
             disabled={isPosting}
           />
 
-          {/* Image Upload */}
           {(showImageUpload || imageUrl) && (
             <div className="border rounded-lg p-4">
               <ImageUpload
@@ -153,7 +155,6 @@ function CreatePost() {
             </div>
           )}
 
-          {/* AI Summary Display */}
           {summary && (
             <div className="p-3 bg-gray-100 border rounded-md">
               <h3 className="font-semibold text-gray-700">AI Summary:</h3>
@@ -161,15 +162,13 @@ function CreatePost() {
             </div>
           )}
 
-          {/* Display Detected Location */}
           <p className="text-sm text-gray-500">
-            📍 Current Location: 
+            📍 Current Location:{" "}
             {location.latitude !== null && location.longitude !== null
-              ? ` Latitude: ${location.latitude}, Longitude: ${location.longitude}`
-              : " Unable to detect location"}
+              ? `Latitude: ${location.latitude}, Longitude: ${location.longitude}`
+              : "Unable to detect location"}
           </p>
 
-          {/* Manual Location Input */}
           {showManualLocation && (
             <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
               <div className="bg-white rounded-lg p-4 w-96 shadow-lg">
@@ -196,7 +195,6 @@ function CreatePost() {
             </div>
           )}
 
-          {/* Action Buttons */}
           <div className="flex items-center justify-between border-t pt-4">
             <Button onClick={() => setShowImageUpload(!showImageUpload)}>
               <ImageIcon className="size-4 mr-2" /> Photo
@@ -209,7 +207,6 @@ function CreatePost() {
             </Button>
           </div>
 
-          {/* Post Buttons */}
           <div className="flex flex-col space-y-2 w-full">
             <Button onClick={handlePostOriginal} disabled={(!content.trim() && !imageUrl) || isPosting}>
               {isPosting ? "Posting..." : "Post Original"}
