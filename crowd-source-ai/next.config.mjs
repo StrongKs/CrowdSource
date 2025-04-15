@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-
     images: {
-        domains: ['utfs.io'], // 👈 Add UploadThing's image CDN domain
-      },
-
+        domains: ['utfs.io'], 
+    },
 };
 
 export default nextConfig;
