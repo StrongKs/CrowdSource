@@ -16,7 +16,8 @@ export const OllamaSummarizerFunction = async (post: Post): Promise<string> => {
   - **Created At:** ${new Date(post.createdAt).toLocaleString()}
   - **Updated At:** ${new Date(post.updatedAt).toLocaleString()}
 
-  Provide a clear summary and make sure to include all the key points without additional comments or explanations. Your output should only contain the summary itself.
+  Provide a clear summary and make sure to include all the key points (author, content, latitude, longitude, created at, updated at) without additional comments or explanations. Your output should only contain the summary itself.
+  If the post does not contain any information of a section, just say this information is missing.
 
   Summary:
   `;

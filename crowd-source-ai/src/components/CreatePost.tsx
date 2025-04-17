@@ -5,11 +5,7 @@ import { Card, CardContent } from "./ui/card";
 import { Textarea } from "./ui/textarea";
 import {
   ImageIcon,
-  Loader2Icon,
-  SendIcon,
-  PhoneIcon,
   MapPinIcon,
-  SparklesIcon
 } from "lucide-react";
 import { Button } from "./ui/button";
 
@@ -21,10 +17,9 @@ function CreatePost() {
   const [content, setContent] = useState("");
   const [imageUrl, setImageUrl] = useState("");
   const [isPosting, setIsPosting] = useState(false);
-  const [summary, setSummary] = useState(""); 
+  const [summary, setSummary] = useState("");
   const [loadingSummary, setLoadingSummary] = useState(false);
   const [showImageUpload, setShowImageUpload] = useState(false);
-  const [showContactInfo, setShowContactInfo] = useState(false);
   const [contactInfo, setContactInfo] = useState("");
   const [location, setLocation] = useState<{
     latitude: number | null;
@@ -64,11 +59,19 @@ function CreatePost() {
     }
   };
 
+  const clearAllInputs = () => {
+    setContent("");
+    setImageUrl("");
+    setSummary("");
+    setShowImageUpload(false);
+    setContactInfo("");
+  };
+
   const handlePostOriginal = async () => {
     if (!content.trim() && !imageUrl) return;
     setIsPosting(true);
     try {
-      const res = await addPostsW_Coordinates(
+      await addPostsW_Coordinates(
         "author_name",
         content,
         location.latitude ?? 0,
@@ -77,18 +80,8 @@ function CreatePost() {
         contactInfo
       );
 
-      console.log("Content:", content);
-      console.log("Contact Info:", contactInfo);
-      console.log("Location:", location);
-      console.log("Image:", imageUrl);
-      console.log("Post created successfully with content but not actual author name");
-
-      if (res?.success) {
-        setContent("");
-        setImageUrl("");
-        setShowImageUpload(false);
-        setSummary("");
-      }
+      // ✅ Always clear the input fields
+      clearAllInputs();
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
@@ -104,12 +97,13 @@ function CreatePost() {
         "author_name",
         summary,
         location.latitude ?? 0,
-        location.longitude ?? 0
+        location.longitude ?? 0,
+        imageUrl ?? "",
+        contactInfo
       );
-      console.log("Posted AI Summary: " + summary);
-      setSummary("");
-      setContent("");
-      setImageUrl("");
+
+      // ✅ Always clear the input fields
+      clearAllInputs();
     } catch (error) {
       console.error("Failed to create post:", error);
     } finally {
