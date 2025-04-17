@@ -1,4 +1,7 @@
 # | | | C R O W D S O U R C E | | | 
+## WARNING:
+App will not run without the new google maps environment variable
+
 
 ## Issue Templates
 Please, copy and paste the appropriate template below and complete all fields for each issue you write.
@@ -55,6 +58,8 @@ Create new file ".env" in crowd-source-ai folder
     Note: The .env file must have both the database url and the UploadThing token
 
 Paste the DATABASE_URL key into the .env file
+Paste the Upload thing Key into the .env file
+Paste the Google Maps key into the .env file
 
 Check and make sure ".env" is listed in the file ".gitignore"
 
