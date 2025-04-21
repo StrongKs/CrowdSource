@@ -1,50 +1,75 @@
 import { APIProvider, Map, AdvancedMarker, Pin, InfoWindow } from "@vis.gl/react-google-maps";
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 const position = { lat: 29.64833, lng: -82.34944 };
-const apiKey = 'AIzaSyBpvLE8vWiJOforCLPk70gOCIRi-tnVIaw';
+const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
-interface Post {
-    id: string;
-    author_name: string;
-    content?: string;
-    image?: string;
-    createdAt: string;
-  }
+type PinData = {
+	lat: number;
+	lng: number;
+	text: string;
+	showInfo: boolean;
+};
 
 function PinMap() {
-      const [posts, setPosts] = useState<Post[]>([]);
-      const [isLoading, setIsLoading] = useState(true);
-    
-      const fetchPosts = async () => {
-        try {
-          setIsLoading(true);
-          const response = await fetch('/api/posts');
-          const data = await response.json();
-          setPosts(data);
-        } catch (error) {
-          console.error("Error fetching posts:", error);
-        } finally {
-          setIsLoading(false);
-        }
-      };
-    
-      useEffect(() => {
-        fetchPosts();
-      }, []);
-    
+	const [pins, setPins] = useState<PinData[]>([]);
+
+	useEffect(() => {
+		const fetchPosts = async () => {
+			try {
+				const res = await fetch('/api/posts');
+				const posts = await res.json();
+
+				const postPins: PinData[] = posts.map((post: any) => ({
+					lat: post.latitude,
+					lng: post.longitude,
+					text: post.content || 'No content',
+					showInfo: false
+				}));
+
+				setPins(postPins);
+			} catch (error) {
+				console.error("Error fetching post pins", error);
+			}
+		};
+
+		fetchPosts();
+	}, []);
+
+	const toggleInfo = (index: number) => {
+		setPins((prevPins) =>
+			prevPins.map((pin, i) =>
+				i === index ? { ...pin, showInfo: !pin.showInfo } : pin
+			)
+		);
+	};
+
 	return (
 		<div style={{ height: '100vh', width: '100%' }}>
 			<APIProvider apiKey={apiKey}>
 				<Map
 					center={position}
-					zoom={15}
-					mapId={'YOUR_MAP_ID'} // Optional, but useful for styling
+					zoom={12}
+					mapId={'YOUR_MAP_ID'}
 					style={{ height: '500px', width: '100%' }}
 				>
-					<AdvancedMarker position={position}>
-						<Pin />
-					</AdvancedMarker>
+					{pins.map((pin, index) => (
+						<AdvancedMarker
+							key={index}
+							position={{ lat: pin.lat, lng: pin.lng }}
+							onClick={() => toggleInfo(index)}
+						>
+							<Pin />
+							{pin.showInfo && (
+								<InfoWindow
+									position={{ lat: pin.lat, lng: pin.lng }}
+									onCloseClick={() => toggleInfo(index)}
+								>
+									<div style={{ color: 'black' }}>{pin.text}</div>
+								</InfoWindow>
+							)}
+						</AdvancedMarker>
+					))}
 				</Map>
 			</APIProvider>
 		</div>
