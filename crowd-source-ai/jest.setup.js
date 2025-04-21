@@ -1,7 +1,8 @@
-require("@testing-library/jest-dom");
+// ✅ CommonJS version
+const { TextEncoder, TextDecoder } = require('util');
+const fetchMock = require("jest-fetch-mock");
+fetchMock.enableMocks();
 
-
-import { TextEncoder, TextDecoder } from 'util';
 
 global.TextEncoder = TextEncoder;
 global.TextDecoder = TextDecoder;
