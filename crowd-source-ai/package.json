@@ -24,6 +24,7 @@
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.5",
     "@uploadthing/react": "^7.1.5",
+    "@vis.gl/react-google-maps": "^2.5.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "faker": "^5.5.3",
