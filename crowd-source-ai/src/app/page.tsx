@@ -7,6 +7,7 @@ import CreatePost from "@/components/CreatePost";
 // import { currentUser } from "@clerk/nextjs/server";
 import ScrollingFeed from "@/components/ScrollingFeed";
 import { APIProvider, Map, AdvancedMarker, Pin, InfoWindow } from "@vis.gl/react-google-maps"
+import PinMap from "@/components/PinMap";
 
 
 export default async function Home() {
@@ -31,9 +32,7 @@ export default async function Home() {
       </div>
 
       <div style={ {height: "40vh"} }className="hidden lg:block lg:col-span-4 sticky top-20">
-          <APIProvider apiKey={process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}>
-          <Map zoom = {12} center={position}></Map>
-          </APIProvider>
+          <PinMap></PinMap>
       </div>
     </div>
   );
